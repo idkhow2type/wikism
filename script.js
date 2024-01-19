@@ -52,8 +52,8 @@ function weightedRandom(weights, weightStrength) {
 // set word and definition
 wordDisplay.textContent = word;
 defDisplay.textContent = `Discrimination against ${
-    words[word]['desc'] || word.slice(0, -3).toLowerCase()
-}s`;
+    words[word]['desc'] || word.slice(0, -3).toLowerCase() + 's'
+}`;
 
 // set query param p to word
 // so that the word can be shared
