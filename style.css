@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+* {
+    --dark: 100, 24, 14;
+    --light: 236, 209, 143;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(rgb(var(--light)), rgb(var(--dark)));
+    font-family: 'Playfair Display', serif;
+    font-size: min(1.2em, 2vw);
+}
+
+body::before,
+body::after {
+    content: '';
+    position: fixed;
+    top: 0;
+    width: 10vw;
+    height: 100vh;
+    --opacity: 0.5;
+}
+
+body::before {
+    left: 0;
+    top: 0;
+    background: linear-gradient(
+        to right,
+        rgb(var(--dark)),
+        rgb(var(--light), var(--opacity))
+    );
+}
+
+body::after {
+    right: 0;
+    background: linear-gradient(
+        to left,
+        rgb(var(--dark)),
+        rgb(var(--light), var(--opacity))
+    );
+}
+
+@media screen and (max-aspect-ratio: 1/1) {
+    body::before,
+    body::after {
+        width: 100vw;
+        height: 10vh;
+    }
+
+    body::before {
+        background: linear-gradient(
+            to bottom,
+            rgb(var(--dark)),
+            rgb(var(--light), var(--opacity))
+        );
+    }
+
+    body::after {
+        top: calc(100vh - 10vh);
+        background: linear-gradient(
+            to top,
+            rgb(var(--dark)),
+            rgb(var(--light), var(--opacity))
+        );
+    }
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3.5em;
+    margin: 0 auto;
+}
+
+p {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.2em;
+    margin: 0.5em 0;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+label {
+    margin-top: 3em;
+    text-align: center;
+}
+
+input[type='range'] {
+    width: min(20em, 40vw);
+    margin: 10px 0;
+    appearance: none;
+    -webkit-appearance: none;
+    cursor: pointer;
+    --track-height: 0.3em;
+    --thumb-size: min(1.5em, 4vw);
+}
+
+input[type='range']::-webkit-slider-runnable-track {
+    appearance: none;
+    -webkit-appearance: none;
+    background: rgb(var(--dark));
+    height: var(--track-height);
+}
+
+input[type='range']::-moz-range-track {
+    appearance: none;
+    -webkit-appearance: none;
+    background: rgb(var(--dark));
+    height: var(--track-height);
+    border-radius: 100vw;
+}
+
+input[type='range']::-webkit-slider-thumb {
+    appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    width: var(--thumb-size);
+    height: var(--thumb-size);
+    background: rgb(var(--light));
+    border-radius: 50%;
+    margin-top: calc((var(--track-height) - var(--thumb-size)) / 2);
+    border: var(--track-height) solid rgb(var(--dark));
+}
