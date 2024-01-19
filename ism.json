@@ -1,1 +1,5966 @@
-{"criticism": {"desc": "", "freq": 4765}, "mechanism": {"desc": "", "freq": 2932}, "capitalism": {"desc": "", "freq": 1945}, "socialism": {"desc": "", "freq": 1670}, "tourism": {"desc": "", "freq": 1458}, "racism": {"desc": "", "freq": 1092}, "nationalism": {"desc": "", "freq": 1008}, "communism": {"desc": "", "freq": 958}, "realism": {"desc": "", "freq": 939}, "optimism": {"desc": "", "freq": 843}, "organism": {"desc": "", "freq": 785}, "terrorism": {"desc": "", "freq": 702}, "feminism": {"desc": "", "freq": 696}, "scepticism": {"desc": "", "freq": 648}, "fascism": {"desc": "", "freq": 658}, "journalism": {"desc": "", "freq": 604}, "marxism": {"desc": "", "freq": 731}, "professionalism": {"desc": "", "freq": 498}, "metabolism": {"desc": "", "freq": 493}, "liberalism": {"desc": "", "freq": 506}, "baptism": {"desc": "", "freq": 441}, "imperialism": {"desc": "", "freq": 439}, "conservatism": {"desc": "", "freq": 487}, "unionism": {"desc": "", "freq": 393}, "individualism": {"desc": "", "freq": 390}, "symbolism": {"desc": "", "freq": 380}, "pluralism": {"desc": "", "freq": 386}, "modernism": {"desc": "", "freq": 415}, "vandalism": {"desc": "", "freq": 342}, "sexism": {"desc": "", "freq": 300}, "idealism": {"desc": "", "freq": 319}, "cynicism": {"desc": "", "freq": 278}, "antagonism": {"desc": "", "freq": 268}, "patriotism": {"desc": "", "freq": 283}, "materialism": {"desc": "", "freq": 258}, "radicalism": {"desc": "", "freq": 252}, "catholicism": {"desc": "", "freq": 331}, "alcoholism": {"desc": "", "freq": 246}, "colonialism": {"desc": "", "freq": 221}, "positivism": {"desc": "", "freq": 214}, "pragmatism": {"desc": "", "freq": 226}, "protectionism": {"desc": "", "freq": 201}, "altruism": {"desc": "", "freq": 194}, "hooliganism": {"desc": "", "freq": 199}, "pessimism": {"desc": "", "freq": 191}, "structuralism": {"desc": "", "freq": 198}, "consumerism": {"desc": "", "freq": 186}, "mysticism": {"desc": "", "freq": 177}, "magnetism": {"desc": "", "freq": 174}, "determinism": {"desc": "", "freq": 170}, "humanism": {"desc": "", "freq": 175}, "absenteeism": {"desc": "", "freq": 170}, "romanticism": {"desc": "", "freq": 195}, "cubism": {"desc": "", "freq": 176}, "feudalism": {"desc": "", "freq": 160}, "federalism": {"desc": "", "freq": 164}, "evangelism": {"desc": "", "freq": 171}, "anti-semitism": {"desc": "", "freq": 255}, "parallelism": {"desc": "", "freq": 147}, "dynamism": {"desc": "", "freq": 148}, "judaism": {"desc": "", "freq": 262}, "corporatism": {"desc": "", "freq": 158}, "fundamentalism": {"desc": "", "freq": 148}, "utilitarianism": {"desc": "", "freq": 145}, "holism": {"desc": "", "freq": 142}, "rationalism": {"desc": "", "freq": 138}, "postmodernism": {"desc": "", "freq": 150}, "separatism": {"desc": "", "freq": 133}, "functionalism": {"desc": "", "freq": 139}, "surrealism": {"desc": "", "freq": 139}, "formalism": {"desc": "", "freq": 125}, "heroism": {"desc": "", "freq": 124}, "ageism": {"desc": "", "freq": 138}, "dualism": {"desc": "", "freq": 126}, "buddhism": {"desc": "", "freq": 205}, "protestantism": {"desc": "", "freq": 169}, "historicism": {"desc": "", "freq": 116}, "empiricism": {"desc": "", "freq": 121}, "collectivism": {"desc": "", "freq": 119}, "activism": {"desc": "", "freq": 115}, "schism": {"desc": "", "freq": 113}, "relativism": {"desc": "", "freq": 116}, "egalitarianism": {"desc": "", "freq": 115}, "internationalism": {"desc": "", "freq": 111}, "paternalism": {"desc": "", "freq": 109}, "naturalism": {"desc": "", "freq": 111}, "rheumatism": {"desc": "", "freq": 107}, "barbarism": {"desc": "", "freq": 103}, "anachronism": {"desc": "", "freq": 102}, "thatcherism": {"desc": "", "freq": 226}, "favouritism": {"desc": "", "freq": 101}, "conventionalism": {"desc": "", "freq": 115}, "chauvinism": {"desc": "", "freq": 96}, "opportunism": {"desc": "", "freq": 99}, "fanaticism": {"desc": "", "freq": 95}, "authoritarianism": {"desc": "", "freq": 96}, "elitism": {"desc": "", "freq": 99}, "despotism": {"desc": "", "freq": 94}, "extremism": {"desc": "", "freq": 93}, "pacifism": {"desc": "", "freq": 96}, "darwinism": {"desc": "", "freq": 121}, "atheism": {"desc": "", "freq": 94}, "catechism": {"desc": "", "freq": 104}, "euphemism": {"desc": "", "freq": 89}, "specialism": {"desc": "", "freq": 91}, "lesbianism": {"desc": "", "freq": 91}, "commercialism": {"desc": "", "freq": 89}, "antiracism": {"desc": "", "freq": 89}, "classicism": {"desc": "", "freq": 89}, "narcissism": {"desc": "", "freq": 86}, "hinduism": {"desc": "", "freq": 163}, "militarism": {"desc": "", "freq": 84}, "behaviourism": {"desc": "", "freq": 83}, "truism": {"desc": "", "freq": 79}, "dimorphism": {"desc": "", "freq": 78}, "egoism": {"desc": "", "freq": 79}, "cannibalism": {"desc": "", "freq": 77}, "prism": {"desc": "", "freq": 80}, "reductionism": {"desc": "", "freq": 77}, "expressionism": {"desc": "", "freq": 85}, "polymorphism": {"desc": "", "freq": 69}, "populism": {"desc": "", "freq": 69}, "republicanism": {"desc": "", "freq": 70}, "paganism": {"desc": "", "freq": 67}, "labourism": {"desc": "", "freq": 72}, "fatalism": {"desc": "", "freq": 68}, "dogmatism": {"desc": "", "freq": 66}, "escapism": {"desc": "", "freq": 68}, "methodism": {"desc": "", "freq": 97}, "theism": {"desc": "", "freq": 64}, "poststructuralism": {"desc": "", "freq": 65}, "nepotism": {"desc": "", "freq": 67}, "totalitarianism": {"desc": "", "freq": 62}, "multiculturalism": {"desc": "", "freq": 64}, "impressionism": {"desc": "", "freq": 73}, "monetarism": {"desc": "", "freq": 67}, "hedonism": {"desc": "", "freq": 64}, "sectarianism": {"desc": "", "freq": 62}, "eroticism": {"desc": "", "freq": 64}, "absolutism": {"desc": "", "freq": 63}, "sadism": {"desc": "", "freq": 63}, "lyricism": {"desc": "", "freq": 61}, "centralism": {"desc": "", "freq": 58}, "foundationalism": {"desc": "", "freq": 65}, "evolutionism": {"desc": "", "freq": 61}, "volcanism": {"desc": "", "freq": 57}, "stalinism": {"desc": "", "freq": 85}, "localism": {"desc": "", "freq": 58}, "exorcism": {"desc": "", "freq": 56}, "regionalism": {"desc": "", "freq": 62}, "masochism": {"desc": "", "freq": 57}, "isolationism": {"desc": "", "freq": 53}, "eclecticism": {"desc": "", "freq": 55}, "secularism": {"desc": "", "freq": 54}, "bilingualism": {"desc": "", "freq": 55}, "nazism": {"desc": "", "freq": 96}, "jacobitism": {"desc": "", "freq": 64}, "plagiarism": {"desc": "", "freq": 51}, "lamarckism": {"desc": "", "freq": 55}, "environmentalism": {"desc": "", "freq": 51}, "heterosexism": {"desc": "", "freq": 52}, "factionalism": {"desc": "", "freq": 47}, "animism": {"desc": "", "freq": 49}, "vegetarianism": {"desc": "", "freq": 47}, "traditionalism": {"desc": "", "freq": 46}, "asceticism": {"desc": "", "freq": 46}, "constitutionalism": {"desc": "", "freq": 47}, "industrialism": {"desc": "", "freq": 47}, "egotism": {"desc": "", "freq": 44}, "expansionism": {"desc": "", "freq": 43}, "fordism": {"desc": "", "freq": 47}, "essentialism": {"desc": "", "freq": 41}, "calvinism": {"desc": "", "freq": 62}, "athleticism": {"desc": "", "freq": 43}, "amateurism": {"desc": "", "freq": 44}, "puritanism": {"desc": "", "freq": 61}, "monotheism": {"desc": "", "freq": 43}, "marxism-leninism": {"desc": "", "freq": 52}, "electromagnetism": {"desc": "", "freq": 40}, "aphorism": {"desc": "", "freq": 40}, "voluntarism": {"desc": "", "freq": 39}, "constructivism": {"desc": "", "freq": 45}, "antisemitism": {"desc": "", "freq": 41}, "zionism": {"desc": "", "freq": 54}, "toryism": {"desc": "", "freq": 48}, "reformism": {"desc": "", "freq": 39}, "bolshevism": {"desc": "", "freq": 62}, "ostracism": {"desc": "", "freq": 39}, "stoicism": {"desc": "", "freq": 43}, "sensationalism": {"desc": "", "freq": 36}, "ecumenism": {"desc": "", "freq": 36}, "voyeurism": {"desc": "", "freq": 35}, "nihilism": {"desc": "", "freq": 35}, "mannerism": {"desc": "", "freq": 38}, "unilateralism": {"desc": "", "freq": 34}, "subjectivism": {"desc": "", "freq": 33}, "solipsism": {"desc": "", "freq": 34}, "universalism": {"desc": "", "freq": 35}, "supranationalism": {"desc": "", "freq": 32}, "self-criticism": {"desc": "", "freq": 63}, "minimalism": {"desc": "", "freq": 35}, "keynesianism": {"desc": "", "freq": 41}, "interactionism": {"desc": "", "freq": 39}, "futurism": {"desc": "", "freq": 34}, "revisionism": {"desc": "", "freq": 32}, "racialism": {"desc": "", "freq": 32}, "polytheism": {"desc": "", "freq": 31}, "defeatism": {"desc": "", "freq": 31}, "primitivism": {"desc": "", "freq": 32}, "isomerism": {"desc": "", "freq": 30}, "interventionism": {"desc": "", "freq": 30}, "incrementalism": {"desc": "", "freq": 31}, "agnosticism": {"desc": "", "freq": 31}, "fetishism": {"desc": "", "freq": 32}, "anglicanism": {"desc": "", "freq": 55}, "short-termism": {"desc": "", "freq": 49}, "normativism": {"desc": "", "freq": 28}, "legalism": {"desc": "", "freq": 28}, "existentialism": {"desc": "", "freq": 36}, "gradualism": {"desc": "", "freq": 28}, "evangelicalism": {"desc": "", "freq": 31}, "atomism": {"desc": "", "freq": 30}, "anticlericalism": {"desc": "", "freq": 28}, "anarchism": {"desc": "", "freq": 29}, "witticism": {"desc": "", "freq": 26}, "spiritualism": {"desc": "", "freq": 30}, "hellenism": {"desc": "", "freq": 33}, "exhibitionism": {"desc": "", "freq": 28}, "ethnocentrism": {"desc": "", "freq": 27}, "autism": {"desc": "", "freq": 30}, "utopianism": {"desc": "", "freq": 26}, "satanism": {"desc": "", "freq": 28}, "philistinism": {"desc": "", "freq": 28}, "parochialism": {"desc": "", "freq": 25}, "correctionalism": {"desc": "", "freq": 26}, "scientism": {"desc": "", "freq": 25}, "monasticism": {"desc": "", "freq": 27}, "metamorphism": {"desc": "", "freq": 26}, "anti-communism": {"desc": "", "freq": 37}, "tribalism": {"desc": "", "freq": 23}, "pastoralism": {"desc": "", "freq": 23}, "managerialism": {"desc": "", "freq": 24}, "confucianism": {"desc": "", "freq": 30}, "tsarism": {"desc": "", "freq": 35}, "triumphalism": {"desc": "", "freq": 23}, "loyalism": {"desc": "", "freq": 22}, "instrumentalism": {"desc": "", "freq": 22}, "hypothyroidism": {"desc": "", "freq": 22}, "hypnotism": {"desc": "", "freq": 25}, "adventurism": {"desc": "", "freq": 22}, "tokenism": {"desc": "", "freq": 25}, "serialism": {"desc": "", "freq": 24}, "perfectionism": {"desc": "", "freq": 24}, "neutralism": {"desc": "", "freq": 21}, "monism": {"desc": "", "freq": 25}, "hyposplenism": {"desc": "", "freq": 21}, "embolism": {"desc": "", "freq": 21}, "economism": {"desc": "", "freq": 21}, "chromaticism": {"desc": "", "freq": 22}, "anthropomorphism": {"desc": "", "freq": 24}, "aestheticism": {"desc": "", "freq": 23}, "parasitism": {"desc": "", "freq": 20}, "intellectualism": {"desc": "", "freq": 20}, "humanitarianism": {"desc": "", "freq": 22}, "fabianism": {"desc": "", "freq": 21}, "oralism": {"desc": "", "freq": 20}, "landlordism": {"desc": "", "freq": 19}, "jingoism": {"desc": "", "freq": 19}, "immaterialism": {"desc": "", "freq": 19}, "didacticism": {"desc": "", "freq": 19}, "urbanism": {"desc": "", "freq": 18}, "syndicalism": {"desc": "", "freq": 19}, "orientalism": {"desc": "", "freq": 28}, "neoclassicism": {"desc": "", "freq": 22}, "multilateralism": {"desc": "", "freq": 20}, "illusionism": {"desc": "", "freq": 18}, "exoticism": {"desc": "", "freq": 19}, "attitudinism": {"desc": "", "freq": 19}, "anti-americanism": {"desc": "", "freq": 26}, "syllogism": {"desc": "", "freq": 17}, "reductivism": {"desc": "", "freq": 20}, "mccarthyism": {"desc": "", "freq": 17}, "ism": {"desc": "", "freq": 25}, "cosmopolitanism": {"desc": "", "freq": 17}, "automatism": {"desc": "", "freq": 19}, "anti-racism": {"desc": "", "freq": 29}, "ventriloquism": {"desc": "", "freq": 17}, "syncretism": {"desc": "", "freq": 17}, "shamanism": {"desc": "", "freq": 18}, "sado-masochism": {"desc": "", "freq": 20}, "rowdyism": {"desc": "", "freq": 16}, "recidivism": {"desc": "", "freq": 16}, "progressivism": {"desc": "", "freq": 16}, "presbyterianism": {"desc": "", "freq": 31}, "post-structuralism": {"desc": "", "freq": 24}, "owenism": {"desc": "", "freq": 17}, "obscurantism": {"desc": "", "freq": 16}, "microorganism": {"desc": "", "freq": 16}, "gangsterism": {"desc": "", "freq": 16}, "scholasticism": {"desc": "", "freq": 15}, "psychologism": {"desc": "", "freq": 17}, "objectivism": {"desc": "", "freq": 15}, "neo-colonialism": {"desc": "", "freq": 24}, "leftism": {"desc": "", "freq": 17}, "isomorphism": {"desc": "", "freq": 16}, "fauvism": {"desc": "", "freq": 18}, "counter-terrorism": {"desc": "", "freq": 18}, "clientelism": {"desc": "", "freq": 17}, "chrism": {"desc": "", "freq": 15}, "careerism": {"desc": "", "freq": 15}, "astigmatism": {"desc": "", "freq": 19}, "albinism": {"desc": "", "freq": 17}, "provincialism": {"desc": "", "freq": 14}, "obstructionism": {"desc": "", "freq": 14}, "luddism": {"desc": "", "freq": 16}, "literalism": {"desc": "", "freq": 14}, "inductivism": {"desc": "", "freq": 15}, "equestrianism": {"desc": "", "freq": 29}, "emotionalism": {"desc": "", "freq": 14}, "daoism": {"desc": "", "freq": 14}, "chartism": {"desc": "", "freq": 20}, "anti-clericalism": {"desc": "", "freq": 20}, "americanism": {"desc": "", "freq": 16}, "voluntaryism": {"desc": "", "freq": 13}, "synchronism": {"desc": "", "freq": 13}, "revivalism": {"desc": "", "freq": 14}, "retributivism": {"desc": "", "freq": 20}, "pauperism": {"desc": "", "freq": 13}, "orphism": {"desc": "", "freq": 15}, "nominalism": {"desc": "", "freq": 13}, "maternalism": {"desc": "", "freq": 14}, "libertarianism": {"desc": "", "freq": 13}, "francoism": {"desc": "", "freq": 15}, "colloquialism": {"desc": "", "freq": 14}, "bonapartism": {"desc": "", "freq": 22}, "bohemianism": {"desc": "", "freq": 14}, "bipedalism": {"desc": "", "freq": 14}, "academicism": {"desc": "", "freq": 13}, "statism": {"desc": "", "freq": 12}, "sabbatarianism": {"desc": "", "freq": 12}, "moralism": {"desc": "", "freq": 12}, "metasomatism": {"desc": "", "freq": 12}, "herbalism": {"desc": "", "freq": 14}, "conformism": {"desc": "", "freq": 12}, "causalism": {"desc": "", "freq": 14}, "botulism": {"desc": "", "freq": 14}, "bilateralism": {"desc": "", "freq": 12}, "uniformitarianism": {"desc": "", "freq": 14}, "transvestism": {"desc": "", "freq": 16}, "totemism": {"desc": "", "freq": 15}, "solecism": {"desc": "", "freq": 11}, "sikhism": {"desc": "", "freq": 15}, "post-modernism": {"desc": "", "freq": 22}, "particularism": {"desc": "", "freq": 11}, "occultism": {"desc": "", "freq": 12}, "majorism": {"desc": "", "freq": 19}, "falsificationism": {"desc": "", "freq": 13}, "carlism": {"desc": "", "freq": 18}, "bureaucratism": {"desc": "", "freq": 12}, "arminianism": {"desc": "", "freq": 18}, "workaholism": {"desc": "", "freq": 11}, "welfarism": {"desc": "", "freq": 10}, "vocationalism": {"desc": "", "freq": 11}, "unitarianism": {"desc": "", "freq": 16}, "trotskyism": {"desc": "", "freq": 14}, "transsexualism": {"desc": "", "freq": 13}, "situationism": {"desc": "", "freq": 14}, "relationism": {"desc": "", "freq": 12}, "pianism": {"desc": "", "freq": 10}, "neologism": {"desc": "", "freq": 10}, "neo-classicism": {"desc": "", "freq": 21}, "multilingualism": {"desc": "", "freq": 11}, "magmatism": {"desc": "", "freq": 10}, "logocentrism": {"desc": "", "freq": 11}, "leninism": {"desc": "", "freq": 12}, "jacobinism": {"desc": "", "freq": 10}, "irrationalism": {"desc": "", "freq": 10}, "gnosticism": {"desc": "", "freq": 21}, "dwarfism": {"desc": "", "freq": 11}, "creationism": {"desc": "", "freq": 10}, "behaviouralism": {"desc": "", "freq": 13}, "antiquarianism": {"desc": "", "freq": 10}, "anti-realism": {"desc": "", "freq": 15}, "verificationism": {"desc": "", "freq": 10}, "super-organism": {"desc": "", "freq": 9}, "socratism": {"desc": "", "freq": 9}, "sadomasochism": {"desc": "", "freq": 10}, "phenomenalism": {"desc": "", "freq": 12}, "neo-realism": {"desc": "", "freq": 13}, "negativism": {"desc": "", "freq": 9}, "monumentalism": {"desc": "", "freq": 9}, "legitimism": {"desc": "", "freq": 9}, "infantilism": {"desc": "", "freq": 9}, "experimentalism": {"desc": "", "freq": 10}, "eurocentrism": {"desc": "", "freq": 13}, "endemism": {"desc": "", "freq": 9}, "dichroism": {"desc": "", "freq": 9}, "deism": {"desc": "", "freq": 11}, "cretinism": {"desc": "", "freq": 9}, "catabolism": {"desc": "", "freq": 9}, "brutalism": {"desc": "", "freq": 9}, "atavism": {"desc": "", "freq": 9}, "anglo-catholicism": {"desc": "", "freq": 13}, "tropism": {"desc": "", "freq": 8}, "termism": {"desc": "", "freq": 8}, "taylorism": {"desc": "", "freq": 18}, "neo-fordism": {"desc": "", "freq": 14}, "neo-fascism": {"desc": "", "freq": 11}, "multipartyism": {"desc": "", "freq": 8}, "millenarianism": {"desc": "", "freq": 8}, "micro-organism": {"desc": "", "freq": 8}, "lutheranism": {"desc": "", "freq": 10}, "gigantism": {"desc": "", "freq": 8}, "gaullism": {"desc": "", "freq": 10}, "externalism": {"desc": "", "freq": 9}, "exceptionalism": {"desc": "", "freq": 8}, "egocentrism": {"desc": "", "freq": 9}, "communalism": {"desc": "", "freq": 8}, "arianism": {"desc": "", "freq": 8}, "archaism": {"desc": "", "freq": 9}, "zoroastrianism": {"desc": "", "freq": 16}, "vitalism": {"desc": "", "freq": 7}, "unrealism": {"desc": "", "freq": 7}, "ultramontanism": {"desc": "", "freq": 8}, "snobbism": {"desc": "", "freq": 7}, "skepticism": {"desc": "", "freq": 7}, "ruffianism": {"desc": "", "freq": 7}, "rigorism": {"desc": "", "freq": 7}, "regalism": {"desc": "", "freq": 9}, "purism": {"desc": "", "freq": 7}, "photojournalism": {"desc": "", "freq": 8}, "parliamentarianism": {"desc": "", "freq": 8}, "over-optimism": {"desc": "", "freq": 7}, "nomadism": {"desc": "", "freq": 8}, "naturism": {"desc": "", "freq": 8}, "mithraism": {"desc": "", "freq": 13}, "mesmerism": {"desc": "", "freq": 8}, "indeterminism": {"desc": "", "freq": 7}, "hyperparathyroidism": {"desc": "", "freq": 7}, "hegelianism": {"desc": "", "freq": 9}, "freudianism": {"desc": "", "freq": 12}, "europeanism": {"desc": "", "freq": 10}, "emotivism": {"desc": "", "freq": 8}, "diffusionism": {"desc": "", "freq": 7}, "diachronism": {"desc": "", "freq": 9}, "dataprism": {"desc": "", "freq": 8}, "dandyism": {"desc": "", "freq": 7}, "coalitionism": {"desc": "", "freq": 9}, "clericalism": {"desc": "", "freq": 7}, "charism": {"desc": "", "freq": 7}, "catastrophism": {"desc": "", "freq": 8}, "aurilism": {"desc": "", "freq": 7}, "transnationalism": {"desc": "", "freq": 9}, "teetotalism": {"desc": "", "freq": 13}, "state-centrism": {"desc": "", "freq": 7}, "sociologism": {"desc": "", "freq": 6}, "ritualism": {"desc": "", "freq": 6}, "quietism": {"desc": "", "freq": 6}, "quakerism": {"desc": "", "freq": 11}, "progressionism": {"desc": "", "freq": 6}, "post-industrialism": {"desc": "", "freq": 9}, "post-fordism": {"desc": "", "freq": 12}, "peronism": {"desc": "", "freq": 6}, "pantheism": {"desc": "", "freq": 8}, "panslavism": {"desc": "", "freq": 8}, "paisleyism": {"desc": "", "freq": 9}, "onanism": {"desc": "", "freq": 6}, "neuroticism": {"desc": "", "freq": 6}, "monarchism": {"desc": "", "freq": 6}, "mentalism": {"desc": "", "freq": 6}, "institutionalism": {"desc": "", "freq": 7}, "heathenism": {"desc": "", "freq": 6}, "genericism": {"desc": "", "freq": 6}, "familism": {"desc": "", "freq": 6}, "eco-tourism": {"desc": "", "freq": 6}, "departmentalism": {"desc": "", "freq": 7}, "cronyism": {"desc": "", "freq": 6}, "connectionism": {"desc": "", "freq": 6}, "conceptualism": {"desc": "", "freq": 6}, "cognitivism": {"desc": "", "freq": 6}, "associationism": {"desc": "", "freq": 7}, "arabism": {"desc": "", "freq": 7}, "antinomianism": {"desc": "", "freq": 12}, "anti-modernism": {"desc": "", "freq": 9}, "anti-lesbianism": {"desc": "", "freq": 11}, "anti-intellectualism": {"desc": "", "freq": 10}, "anti-capitalism": {"desc": "", "freq": 10}, "abstractionism": {"desc": "", "freq": 6}, "abolitionism": {"desc": "", "freq": 6}, "virgilianism": {"desc": "", "freq": 5}, "victorianism": {"desc": "", "freq": 5}, "unprofessionalism": {"desc": "", "freq": 5}, "troilism": {"desc": "", "freq": 5}, "tripartism": {"desc": "", "freq": 6}, "trade-unionism": {"desc": "", "freq": 7}, "synergism": {"desc": "", "freq": 5}, "ruralism": {"desc": "", "freq": 5}, "regulationism": {"desc": "", "freq": 5}, "rastafarianism": {"desc": "", "freq": 9}, "proselytism": {"desc": "", "freq": 5}, "pro-zionism": {"desc": "", "freq": 7}, "predestinarianism": {"desc": "", "freq": 5}, "popularism": {"desc": "", "freq": 5}, "pointillism": {"desc": "", "freq": 5}, "phallocentrism": {"desc": "", "freq": 5}, "palaeomagnetism": {"desc": "", "freq": 5}, "organicism": {"desc": "", "freq": 5}, "nondeterminism": {"desc": "", "freq": 5}, "mongolism": {"desc": "", "freq": 5}, "mercantilism": {"desc": "", "freq": 5}, "medievalism": {"desc": "", "freq": 6}, "libertinism": {"desc": "", "freq": 5}, "lacanianism": {"desc": "", "freq": 6}, "jainism": {"desc": "", "freq": 5}, "invalidism": {"desc": "", "freq": 5}, "informalism": {"desc": "", "freq": 5}, "imagism": {"desc": "", "freq": 7}, "hypersplenism": {"desc": "", "freq": 5}, "hirsutism": {"desc": "", "freq": 5}, "hermaphroditism": {"desc": "", "freq": 5}, "guevarism": {"desc": "", "freq": 5}, "giantism": {"desc": "", "freq": 5}, "exclusivism": {"desc": "", "freq": 6}, "eurocommunism": {"desc": "", "freq": 7}, "entrepreneurialism": {"desc": "", "freq": 5}, "dilettantism": {"desc": "", "freq": 5}, "diatonicism": {"desc": "", "freq": 5}, "congregationalism": {"desc": "", "freq": 13}, "chimaerism": {"desc": "", "freq": 5}, "biologism": {"desc": "", "freq": 5}, "atlanticism": {"desc": "", "freq": 6}, "aposematism": {"desc": "", "freq": 5}, "antifeminism": {"desc": "", "freq": 6}, "antidisestablishmentarianism": {"desc": "", "freq": 5}, "anti-terrorism": {"desc": "", "freq": 8}, "anti-imperialism": {"desc": "", "freq": 8}, "anti-humanism": {"desc": "", "freq": 8}, "anti-feminism": {"desc": "", "freq": 7}, "anti-catholicism": {"desc": "", "freq": 9}, "alpinism": {"desc": "", "freq": 5}, "absurdism": {"desc": "", "freq": 5}, "vulgarism": {"desc": "", "freq": 4}, "ultranationalism": {"desc": "", "freq": 4}, "titoism": {"desc": "", "freq": 5}, "titism": {"desc": "", "freq": 4}, "thromboembolism": {"desc": "", "freq": 4}, "sufism": {"desc": "", "freq": 8}, "spiritism": {"desc": "", "freq": 5}, "speciesism": {"desc": "", "freq": 4}, "solafidianism": {"desc": "", "freq": 4}, "sectionalism": {"desc": "", "freq": 4}, "secessionism": {"desc": "", "freq": 4}, "royalism": {"desc": "", "freq": 4}, "revanchism": {"desc": "", "freq": 4}, "retreatism": {"desc": "", "freq": 4}, "rachmanism": {"desc": "", "freq": 8}, "pythagoreanism": {"desc": "", "freq": 5}, "post-impressionism": {"desc": "", "freq": 8}, "platonism": {"desc": "", "freq": 6}, "pietism": {"desc": "", "freq": 8}, "palladianism": {"desc": "", "freq": 5}, "nonconformism": {"desc": "", "freq": 5}, "non-dualism": {"desc": "", "freq": 5}, "neo-nazism": {"desc": "", "freq": 8}, "narco-terrorism": {"desc": "", "freq": 6}, "mutism": {"desc": "", "freq": 4}, "multi-culturalism": {"desc": "", "freq": 6}, "misogynism": {"desc": "", "freq": 4}, "mendelism": {"desc": "", "freq": 4}, "marxist-leninism": {"desc": "", "freq": 5}, "maoism": {"desc": "", "freq": 5}, "majoritarianism": {"desc": "", "freq": 4}, "leavisism": {"desc": "", "freq": 7}, "khvarism": {"desc": "", "freq": 5}, "judgmentalism": {"desc": "", "freq": 4}, "jansenism": {"desc": "", "freq": 4}, "geomagnetism": {"desc": "", "freq": 5}, "fallibilism": {"desc": "", "freq": 6}, "ecumenicalism": {"desc": "", "freq": 4}, "disablism": {"desc": "", "freq": 4}, "dadaism": {"desc": "", "freq": 4}, "constructionism": {"desc": "", "freq": 4}, "compartmentalism": {"desc": "", "freq": 4}, "classism": {"desc": "", "freq": 4}, "castroism": {"desc": "", "freq": 4}, "caesarism": {"desc": "", "freq": 5}, "butskellism": {"desc": "", "freq": 6}, "bogomilism": {"desc": "", "freq": 4}, "avant-gardism": {"desc": "", "freq": 5}, "anti-perfectionism": {"desc": "", "freq": 5}, "anti-parliamentarianism": {"desc": "", "freq": 5}, "anti-fascism": {"desc": "", "freq": 6}, "anti-colonialism": {"desc": "", "freq": 6}, "alienism": {"desc": "", "freq": 7}, "agism": {"desc": "", "freq": 4}, "accidentalism": {"desc": "", "freq": 4}, "vorticism": {"desc": "", "freq": 3}, "vichyism": {"desc": "", "freq": 4}, "vampirism": {"desc": "", "freq": 3}, "ultra-leftism": {"desc": "", "freq": 3}, "transmutationism": {"desc": "", "freq": 3}, "thomism": {"desc": "", "freq": 4}, "televangelism": {"desc": "", "freq": 3}, "taoism": {"desc": "", "freq": 6}, "supernaturalism": {"desc": "", "freq": 3}, "shintoism": {"desc": "", "freq": 4}, "semi-feudalism": {"desc": "", "freq": 3}, "schematism": {"desc": "", "freq": 3}, "sacramentalism": {"desc": "", "freq": 3}, "quadrupedalism": {"desc": "", "freq": 3}, "pro-europeanism": {"desc": "", "freq": 3}, "privatism": {"desc": "", "freq": 3}, "prescriptivism": {"desc": "", "freq": 4}, "post-thatcherism": {"desc": "", "freq": 3}, "photorealism": {"desc": "", "freq": 4}, "pelagianism": {"desc": "", "freq": 4}, "parkinsonism": {"desc": "", "freq": 3}, "paramilitarism": {"desc": "", "freq": 3}, "paramagnetism": {"desc": "", "freq": 3}, "panopticism": {"desc": "", "freq": 3}, "pan-germanism": {"desc": "", "freq": 4}, "ornamentalism": {"desc": "", "freq": 3}, "orangeism": {"desc": "", "freq": 3}, "operationalism": {"desc": "", "freq": 3}, "neomorphism": {"desc": "", "freq": 3}, "neo-marxism": {"desc": "", "freq": 3}, "neo-liberalism": {"desc": "", "freq": 6}, "neo-expressionism": {"desc": "", "freq": 3}, "neo-evolutionism": {"desc": "", "freq": 5}, "neo-darwinism": {"desc": "", "freq": 8}, "neighbourhoodism": {"desc": "", "freq": 3}, "mutualism": {"desc": "", "freq": 3}, "multiracialism": {"desc": "", "freq": 4}, "multi-unionism": {"desc": "", "freq": 4}, "modalism": {"desc": "", "freq": 3}, "micawberism": {"desc": "", "freq": 3}, "metamerism": {"desc": "", "freq": 3}, "melanism": {"desc": "", "freq": 5}, "maximalism": {"desc": "", "freq": 3}, "manualism": {"desc": "", "freq": 3}, "manichaeism": {"desc": "", "freq": 4}, "long-termism": {"desc": "", "freq": 3}, "internalism": {"desc": "", "freq": 4}, "incendiarism": {"desc": "", "freq": 3}, "immobilism": {"desc": "", "freq": 3}, "immediatism": {"desc": "", "freq": 3}, "godwinism": {"desc": "", "freq": 3}, "galvanism": {"desc": "", "freq": 3}, "galenism": {"desc": "", "freq": 3}, "euro-centrism": {"desc": "", "freq": 4}, "erotism": {"desc": "", "freq": 3}, "erastianism": {"desc": "", "freq": 3}, "electro-magnetism": {"desc": "", "freq": 4}, "divisionism": {"desc": "", "freq": 3}, "developmentalism": {"desc": "", "freq": 3}, "denominationalism": {"desc": "", "freq": 3}, "deconstructionism": {"desc": "", "freq": 4}, "czarism": {"desc": "", "freq": 3}, "culturalism": {"desc": "", "freq": 3}, "credentialism": {"desc": "", "freq": 3}, "copernicanism": {"desc": "", "freq": 3}, "communitarianism": {"desc": "", "freq": 3}, "coherentism": {"desc": "", "freq": 3}, "cobdenism": {"desc": "", "freq": 3}, "christocentrism": {"desc": "", "freq": 3}, "casualism": {"desc": "", "freq": 3}, "believism": {"desc": "", "freq": 3}, "bagshawism": {"desc": "", "freq": 3}, "assimilationism": {"desc": "", "freq": 3}, "anti-unionism": {"desc": "", "freq": 3}, "anti-statism": {"desc": "", "freq": 4}, "anti-sexism": {"desc": "", "freq": 5}, "anti-marxism": {"desc": "", "freq": 5}, "agrarianism": {"desc": "", "freq": 3}, "afrocentrism": {"desc": "", "freq": 5}, "adventism": {"desc": "", "freq": 3}, "volunteerism": {"desc": "", "freq": 2}, "ultra-patriotism": {"desc": "", "freq": 2}, "trinitarianism": {"desc": "", "freq": 3}, "trilateralism": {"desc": "", "freq": 3}, "tribadism": {"desc": "", "freq": 2}, "tectonism": {"desc": "", "freq": 2}, "tachymetabolism": {"desc": "", "freq": 3}, "tachism": {"desc": "", "freq": 3}, "survivalism": {"desc": "", "freq": 2}, "superorganism": {"desc": "", "freq": 2}, "splittism": {"desc": "", "freq": 2}, "soul-cialism": {"desc": "", "freq": 2}, "somnambulism": {"desc": "", "freq": 2}, "socialist-feminism": {"desc": "", "freq": 2}, "slavophilism": {"desc": "", "freq": 2}, "shiism": {"desc": "", "freq": 3}, "shamateurism": {"desc": "", "freq": 2}, "sentimentalism": {"desc": "", "freq": 2}, "semitism": {"desc": "", "freq": 2}, "selectionism": {"desc": "", "freq": 2}, "saivism": {"desc": "", "freq": 2}, "residualism": {"desc": "", "freq": 2}, "reaganism": {"desc": "", "freq": 5}, "pyrrhonism": {"desc": "", "freq": 3}, "pugilism": {"desc": "", "freq": 2}, "psychoticism": {"desc": "", "freq": 2}, "pseudointellectualism": {"desc": "", "freq": 2}, "prussianism": {"desc": "", "freq": 3}, "proto-fascism": {"desc": "", "freq": 2}, "post-imperialism": {"desc": "", "freq": 2}, "pleiotropism": {"desc": "", "freq": 2}, "physicalism": {"desc": "", "freq": 3}, "photoperiodism": {"desc": "", "freq": 2}, "philhellenism": {"desc": "", "freq": 2}, "personalism": {"desc": "", "freq": 3}, "pedestrianism": {"desc": "", "freq": 3}, "parajournalism": {"desc": "", "freq": 2}, "non-interventionism": {"desc": "", "freq": 3}, "non-determinism": {"desc": "", "freq": 2}, "neocolonialism": {"desc": "", "freq": 2}, "neo-romanticism": {"desc": "", "freq": 3}, "neo-malthusianism": {"desc": "", "freq": 5}, "neo-lamarckism": {"desc": "", "freq": 3}, "neo-imperialism": {"desc": "", "freq": 3}, "neo-elitism": {"desc": "", "freq": 3}, "neo-conceptualism": {"desc": "", "freq": 2}, "nativism": {"desc": "", "freq": 2}, "mycoparasitism": {"desc": "", "freq": 2}, "municipalism": {"desc": "", "freq": 2}, "multi-partyism": {"desc": "", "freq": 2}, "multi-lingualism": {"desc": "", "freq": 2}, "multi-culturism": {"desc": "", "freq": 2}, "mortalism": {"desc": "", "freq": 2}, "mormonism": {"desc": "", "freq": 3}, "montanism": {"desc": "", "freq": 3}, "miserablism": {"desc": "", "freq": 2}, "miserabilism": {"desc": "", "freq": 2}, "miltonism": {"desc": "", "freq": 2}, "metacriticism": {"desc": "", "freq": 2}, "messianism": {"desc": "", "freq": 2}, "mediumism": {"desc": "", "freq": 2}, "medism": {"desc": "", "freq": 2}, "me-firstism": {"desc": "", "freq": 2}, "matabolism": {"desc": "", "freq": 2}, "masculinism": {"desc": "", "freq": 2}, "manichaeanism": {"desc": "", "freq": 3}, "malthusianism": {"desc": "", "freq": 2}, "machiavellianism": {"desc": "", "freq": 2}, "maccarthyism": {"desc": "", "freq": 2}, "lysenkoism": {"desc": "", "freq": 3}, "ludism": {"desc": "", "freq": 2}, "liquidationism": {"desc": "", "freq": 2}, "leucism": {"desc": "", "freq": 3}, "legal-constitutionalism": {"desc": "", "freq": 2}, "left-republicanism": {"desc": "", "freq": 2}, "latitudinarianism": {"desc": "", "freq": 3}, "latinism": {"desc": "", "freq": 2}, "laser-prism": {"desc": "", "freq": 2}, "lamaism": {"desc": "", "freq": 2}, "laconicism": {"desc": "", "freq": 2}, "kinnockism": {"desc": "", "freq": 2}, "josephinism": {"desc": "", "freq": 2}, "italianism": {"desc": "", "freq": 2}, "intuitionism": {"desc": "", "freq": 3}, "insiderism": {"desc": "", "freq": 2}, "injournalism": {"desc": "", "freq": 2}, "inhumanism": {"desc": "", "freq": 2}, "infallibilism": {"desc": "", "freq": 2}, "inegalitarianism": {"desc": "", "freq": 2}, "impersonalism": {"desc": "", "freq": 2}, "illiberalism": {"desc": "", "freq": 2}, "hypopituitarism": {"desc": "", "freq": 2}, "hyperthyroidism": {"desc": "", "freq": 2}, "hyperpluralism": {"desc": "", "freq": 2}, "hylemorphism": {"desc": "", "freq": 2}, "hygienism": {"desc": "", "freq": 2}, "homoeroticism": {"desc": "", "freq": 2}, "hitlerism": {"desc": "", "freq": 4}, "heurism": {"desc": "", "freq": 2}, "hegemonism": {"desc": "", "freq": 2}, "globalism": {"desc": "", "freq": 2}, "genteelism": {"desc": "", "freq": 2}, "gallicanism": {"desc": "", "freq": 2}, "foodie-ism": {"desc": "", "freq": 3}, "ferromagnetism": {"desc": "", "freq": 2}, "falangism": {"desc": "", "freq": 2}, "facadism": {"desc": "", "freq": 2}, "euro-nationlism": {"desc": "", "freq": 2}, "euro-nationalism": {"desc": "", "freq": 2}, "euro-federalism": {"desc": "", "freq": 2}, "euro-communism": {"desc": "", "freq": 4}, "esotericism": {"desc": "", "freq": 2}, "erraticism": {"desc": "", "freq": 2}, "epicurism": {"desc": "", "freq": 2}, "entryism": {"desc": "", "freq": 3}, "englandism": {"desc": "", "freq": 3}, "endism": {"desc": "", "freq": 2}, "ecumenicism": {"desc": "", "freq": 2}, "ecotourism": {"desc": "", "freq": 3}, "dynasticism": {"desc": "", "freq": 4}, "donatism": {"desc": "", "freq": 2}, "distributism": {"desc": "", "freq": 2}, "dialogism": {"desc": "", "freq": 3}, "defencism": {"desc": "", "freq": 2}, "cultism": {"desc": "", "freq": 2}, "critisism": {"desc": "", "freq": 2}, "contractualism": {"desc": "", "freq": 2}, "consociationalism": {"desc": "", "freq": 2}, "conservativism": {"desc": "", "freq": 3}, "conservationism": {"desc": "", "freq": 2}, "consequentialism": {"desc": "", "freq": 2}, "confessionalism": {"desc": "", "freq": 2}, "charlatanism": {"desc": "", "freq": 2}, "ceremonialism": {"desc": "", "freq": 2}, "centrism": {"desc": "", "freq": 2}, "cartesianism": {"desc": "", "freq": 3}, "auto-eroticism": {"desc": "", "freq": 2}, "authenticism": {"desc": "", "freq": 2}, "auteurism": {"desc": "", "freq": 2}, "atonalism": {"desc": "", "freq": 2}, "antipapalism": {"desc": "", "freq": 2}, "anti-zionism": {"desc": "", "freq": 3}, "anti-vandalism": {"desc": "", "freq": 3}, "anti-socialism": {"desc": "", "freq": 2}, "anti-royalism": {"desc": "", "freq": 2}, "anti-papalism": {"desc": "", "freq": 3}, "anti-nazism": {"desc": "", "freq": 2}, "anti-militarism": {"desc": "", "freq": 2}, "anti-liberalism": {"desc": "", "freq": 3}, "anti-industrialism": {"desc": "", "freq": 3}, "anti-europeanism": {"desc": "", "freq": 3}, "anti-elitism": {"desc": "", "freq": 2}, "anti-correctionalism": {"desc": "", "freq": 2}, "anti-collectivism": {"desc": "", "freq": 2}, "anti-authoritarianism": {"desc": "", "freq": 3}, "anti-antiracism": {"desc": "", "freq": 2}, "anthropocentrism": {"desc": "", "freq": 2}, "animalism": {"desc": "", "freq": 2}, "androcentrism": {"desc": "", "freq": 2}, "alism": {"desc": "", "freq": 2}, "agonism": {"desc": "", "freq": 2}, "adversarialism": {"desc": "", "freq": 2}, "actualism": {"desc": "", "freq": 2}, "zionism-is-racism": {"desc": "", "freq": 1}, "zhdanovism": {"desc": "", "freq": 1}, "zen-buddhism": {"desc": "", "freq": 1}, "xanthism": {"desc": "", "freq": 2}, "worldism": {"desc": "", "freq": 1}, "workerism": {"desc": "", "freq": 1}, "willie-ism": {"desc": "", "freq": 1}, "wilkoism": {"desc": "", "freq": 1}, "whiggism": {"desc": "", "freq": 1}, "westernism": {"desc": "", "freq": 1}, "wesleyanism": {"desc": "", "freq": 1}, "warlordism": {"desc": "", "freq": 1}, "vulcanism": {"desc": "", "freq": 1}, "vortism": {"desc": "", "freq": 1}, "voodism": {"desc": "", "freq": 1}, "voltaireanism": {"desc": "", "freq": 1}, "vocalism": {"desc": "", "freq": 1}, "vigilantism": {"desc": "", "freq": 1}, "victimism": {"desc": "", "freq": 1}, "veterinarianism": {"desc": "", "freq": 1}, "verbalism": {"desc": "", "freq": 1}, "venturism": {"desc": "", "freq": 1}, "velokovskianism": {"desc": "", "freq": 1}, "velikovskianism": {"desc": "", "freq": 1}, "veganism": {"desc": "", "freq": 1}, "vedantism": {"desc": "", "freq": 1}, "variationism": {"desc": "", "freq": 1}, "vanguardism": {"desc": "", "freq": 1}, "valentinism": {"desc": "", "freq": 1}, "vaisnavism": {"desc": "", "freq": 1}, "vaishnavism": {"desc": "", "freq": 1}, "unsectarianism": {"desc": "", "freq": 1}, "under-consumptionism": {"desc": "", "freq": 1}, "unamericanism": {"desc": "", "freq": 1}, "un-americanism": {"desc": "", "freq": 1}, "ultra-socialism": {"desc": "", "freq": 1}, "ultra-nationalism": {"desc": "", "freq": 1}, "triumpalism": {"desc": "", "freq": 1}, "tritheism": {"desc": "", "freq": 1}, "transcendentalism": {"desc": "", "freq": 1}, "trans-isomerism": {"desc": "", "freq": 1}, "trainspotterism": {"desc": "", "freq": 1}, "tractarianism": {"desc": "", "freq": 2}, "tory-ism": {"desc": "", "freq": 1}, "tone-symbolism": {"desc": "", "freq": 1}, "this-ism": {"desc": "", "freq": 1}, "third-worldism": {"desc": "", "freq": 1}, "thespianism": {"desc": "", "freq": 1}, "theoreticism": {"desc": "", "freq": 1}, "theomonoism": {"desc": "", "freq": 1}, "thatherism": {"desc": "", "freq": 1}, "that-ism": {"desc": "", "freq": 1}, "textualism": {"desc": "", "freq": 1}, "ted-buddhism": {"desc": "", "freq": 1}, "technologism": {"desc": "", "freq": 1}, "technologico-benthamism": {"desc": "", "freq": 1}, "techno-brutalism": {"desc": "", "freq": 1}, "tantrism": {"desc": "", "freq": 1}, "taking-workaholism": {"desc": "", "freq": 1}, "take-it-or-leave-itism": {"desc": "", "freq": 1}, "tailism": {"desc": "", "freq": 1}, "sylvopastoralism": {"desc": "", "freq": 1}, "swivel-mechanism": {"desc": "", "freq": 1}, "swedenborgianism": {"desc": "", "freq": 1}, "super-patriotism": {"desc": "", "freq": 1}, "super-friedmanism": {"desc": "", "freq": 1}, "super-determinism": {"desc": "", "freq": 1}, "sunnism": {"desc": "", "freq": 1}, "suffragism": {"desc": "", "freq": 1}, "suffragettism": {"desc": "", "freq": 1}, "suburbanism": {"desc": "", "freq": 1}, "stylism": {"desc": "", "freq": 1}, "structural-functionalism": {"desc": "", "freq": 1}, "stoutism": {"desc": "", "freq": 1}, "stigmatism": {"desc": "", "freq": 1}, "stereoisomerism": {"desc": "", "freq": 1}, "stereo-isomerism": {"desc": "", "freq": 1}, "statism-collectivism": {"desc": "", "freq": 1}, "statecentrism": {"desc": "", "freq": 1}, "stageism": {"desc": "", "freq": 1}, "spring-mechanism": {"desc": "", "freq": 1}, "spot-the-sexism": {"desc": "", "freq": 1}, "spoonerism": {"desc": "", "freq": 1}, "sphericism": {"desc": "", "freq": 1}, "spencerism": {"desc": "", "freq": 1}, "specieism": {"desc": "", "freq": 1}, "spartanism": {"desc": "", "freq": 1}, "sovietism": {"desc": "", "freq": 1}, "sound-symbolism": {"desc": "", "freq": 2}, "sophism": {"desc": "", "freq": 1}, "socinianism": {"desc": "", "freq": 1}, "socialist-realism": {"desc": "", "freq": 1}, "social-darwinism": {"desc": "", "freq": 1}, "sizism": {"desc": "", "freq": 1}, "sizeism": {"desc": "", "freq": 1}, "sinead-ism": {"desc": "", "freq": 2}, "simultanism": {"desc": "", "freq": 1}, "simultaneism": {"desc": "", "freq": 1}, "simplicism": {"desc": "", "freq": 1}, "shopaholism": {"desc": "", "freq": 1}, "shi-ism": {"desc": "", "freq": 1}, "sephardism": {"desc": "", "freq": 1}, "sensualism": {"desc": "", "freq": 1}, "semi-specialism": {"desc": "", "freq": 1}, "semi-pluralism": {"desc": "", "freq": 1}, "semi-nomadism": {"desc": "", "freq": 1}, "self-referentialism": {"desc": "", "freq": 1}, "selectivism": {"desc": "", "freq": 1}, "segregationism": {"desc": "", "freq": 1}, "segmentalism": {"desc": "", "freq": 1}, "scroungerism": {"desc": "", "freq": 1}, "sciolism": {"desc": "", "freq": 1}, "schopenhauerianism": {"desc": "", "freq": 1}, "sartreanism": {"desc": "", "freq": 1}, "sapphism": {"desc": "", "freq": 1}, "salvationism": {"desc": "", "freq": 2}, "saltationism": {"desc": "", "freq": 1}, "salingerism": {"desc": "", "freq": 1}, "rynoikism": {"desc": "", "freq": 1}, "russianism": {"desc": "", "freq": 1}, "rosicrucianism": {"desc": "", "freq": 2}, "roomatism": {"desc": "", "freq": 1}, "romanism": {"desc": "", "freq": 2}, "rivalism": {"desc": "", "freq": 1}, "right-answerism": {"desc": "", "freq": 1}, "ridleyism": {"desc": "", "freq": 1}, "return-to-marxism": {"desc": "", "freq": 1}, "representationalism": {"desc": "", "freq": 1}, "religious-nationalism": {"desc": "", "freq": 1}, "reism": {"desc": "", "freq": 1}, "regurgitate-arianism": {"desc": "", "freq": 1}, "reconstructionism": {"desc": "", "freq": 1}, "reactionism": {"desc": "", "freq": 1}, "rayonism": {"desc": "", "freq": 1}, "rascism": {"desc": "", "freq": 1}, "rabbism": {"desc": "", "freq": 1}, "rabbinism": {"desc": "", "freq": 1}, "quasi-reductionism": {"desc": "", "freq": 1}, "quasi-philanthropism": {"desc": "", "freq": 1}, "quasi-nationalism": {"desc": "", "freq": 1}, "quasi-imperialism": {"desc": "", "freq": 1}, "qabalism": {"desc": "", "freq": 1}, "puseyism": {"desc": "", "freq": 2}, "pump-mechanism": {"desc": "", "freq": 1}, "pseudomysticism": {"desc": "", "freq": 1}, "pseudomosaicism": {"desc": "", "freq": 1}, "pseudohermaphroditism": {"desc": "", "freq": 1}, "pseudoelizabethanism": {"desc": "", "freq": 1}, "pseudo-realism": {"desc": "", "freq": 1}, "pseudo-modernism": {"desc": "", "freq": 1}, "pseudo-masochism": {"desc": "", "freq": 1}, "pseudo-individualism": {"desc": "", "freq": 1}, "pseudo-egalitarianism": {"desc": "", "freq": 1}, "pseudo-archaism": {"desc": "", "freq": 1}, "provisionalism": {"desc": "", "freq": 1}, "proto-modernism": {"desc": "", "freq": 1}, "proto-minimalism": {"desc": "", "freq": 1}, "pronatalism": {"desc": "", "freq": 1}, "proletarianism": {"desc": "", "freq": 1}, "prognathism": {"desc": "", "freq": 1}, "proceduralism": {"desc": "", "freq": 1}, "probabilism": {"desc": "", "freq": 1}, "pro-westernism": {"desc": "", "freq": 1}, "priapism": {"desc": "", "freq": 2}, "presidentialism": {"desc": "", "freq": 1}, "premillennialism": {"desc": "", "freq": 1}, "preindustrialism": {"desc": "", "freq": 1}, "preformationism": {"desc": "", "freq": 1}, "precisionism": {"desc": "", "freq": 1}, "pre-tourism": {"desc": "", "freq": 1}, "pre-raphaelitism": {"desc": "", "freq": 1}, "pre-industrialism": {"desc": "", "freq": 1}, "pre-evangelism": {"desc": "", "freq": 1}, "prago-centrism": {"desc": "", "freq": 1}, "postfeminism": {"desc": "", "freq": 1}, "post-positivism": {"desc": "", "freq": 1}, "post-newtonianism": {"desc": "", "freq": 1}, "post-monetarism": {"desc": "", "freq": 1}, "post-modalism": {"desc": "", "freq": 1}, "post-marxism": {"desc": "", "freq": 1}, "post-feminism": {"desc": "", "freq": 2}, "post-communism": {"desc": "", "freq": 1}, "post-colonialism": {"desc": "", "freq": 2}, "polemicism": {"desc": "", "freq": 1}, "podoeroticism": {"desc": "", "freq": 1}, "plutonism": {"desc": "", "freq": 1}, "plebiscitarianism": {"desc": "", "freq": 1}, "phototropism": {"desc": "", "freq": 1}, "photo-realism": {"desc": "", "freq": 2}, "phonocentrism": {"desc": "", "freq": 1}, "phonocentricism": {"desc": "", "freq": 1}, "pholmorphism": {"desc": "", "freq": 1}, "philo-semitism": {"desc": "", "freq": 1}, "phenomena-hypnotism": {"desc": "", "freq": 1}, "phanaticism": {"desc": "", "freq": 1}, "petalism": {"desc": "", "freq": 1}, "perversions-voyeurism": {"desc": "", "freq": 1}, "perspectivism": {"desc": "", "freq": 1}, "perspectivalism": {"desc": "", "freq": 1}, "peripheralism": {"desc": "", "freq": 1}, "percentism": {"desc": "", "freq": 1}, "pentecostalism": {"desc": "", "freq": 1}, "pelmanism": {"desc": "", "freq": 1}, "pattenism": {"desc": "", "freq": 1}, "pathomechanism": {"desc": "", "freq": 1}, "parliamentarism": {"desc": "", "freq": 1}, "panteutonism": {"desc": "", "freq": 1}, "pansyism": {"desc": "", "freq": 1}, "panpsychism": {"desc": "", "freq": 1}, "panlogism": {"desc": "", "freq": 1}, "pan-slavism": {"desc": "", "freq": 1}, "pan-protestantism": {"desc": "", "freq": 1}, "pan-nationalism": {"desc": "", "freq": 1}, "pan-europeanism": {"desc": "", "freq": 1}, "pan-arabism": {"desc": "", "freq": 1}, "pan-africanism": {"desc": "", "freq": 1}, "pacificism": {"desc": "", "freq": 1}, "overconsumptionism": {"desc": "", "freq": 1}, "over-liberalism": {"desc": "", "freq": 1}, "over-criticism": {"desc": "", "freq": 1}, "over-altruism": {"desc": "", "freq": 1}, "orthomorphism": {"desc": "", "freq": 1}, "oral-onlyism": {"desc": "", "freq": 1}, "oppositionalism": {"desc": "", "freq": 1}, "one-partyism": {"desc": "", "freq": 1}, "olympianism": {"desc": "", "freq": 1}, "old-bufferism": {"desc": "", "freq": 1}, "officialism": {"desc": "", "freq": 1}, "occasionalism": {"desc": "", "freq": 1}, "objectism": {"desc": "", "freq": 1}, "nudism": {"desc": "", "freq": 1}, "northism": {"desc": "", "freq": 1}, "normalism": {"desc": "", "freq": 1}, "nonreconstructionism": {"desc": "", "freq": 1}, "nonjurism": {"desc": "", "freq": 1}, "non-sexism": {"desc": "", "freq": 1}, "non-ritualism": {"desc": "", "freq": 1}, "non-republicanism": {"desc": "", "freq": 1}, "non-polymorphism": {"desc": "", "freq": 1}, "non-isomorphism": {"desc": "", "freq": 1}, "non-conformism": {"desc": "", "freq": 1}, "non-cognitivism": {"desc": "", "freq": 1}, "nimbyism": {"desc": "", "freq": 1}, "newtonianism": {"desc": "", "freq": 1}, "neuterism": {"desc": "", "freq": 1}, "nestorianism": {"desc": "", "freq": 1}, "neorealism": {"desc": "", "freq": 1}, "neopostdeconstructionism": {"desc": "", "freq": 1}, "neoplatonism": {"desc": "", "freq": 2}, "neoplasticism": {"desc": "", "freq": 1}, "neonomianism": {"desc": "", "freq": 1}, "neoliberalism": {"desc": "", "freq": 1}, "neoelitism": {"desc": "", "freq": 1}, "neoconservatism": {"desc": "", "freq": 1}, "neocatastrophism": {"desc": "", "freq": 1}, "neo-zionism": {"desc": "", "freq": 1}, "neo-thomism": {"desc": "", "freq": 1}, "neo-stalinism": {"desc": "", "freq": 2}, "neo-socialism": {"desc": "", "freq": 1}, "neo-pluralism": {"desc": "", "freq": 1}, "neo-platonism": {"desc": "", "freq": 2}, "neo-plasticism": {"desc": "", "freq": 1}, "neo-paganism": {"desc": "", "freq": 3}, "neo-nationalism": {"desc": "", "freq": 1}, "neo-kantianism": {"desc": "", "freq": 1}, "neo-hegelism": {"desc": "", "freq": 1}, "neo-fundamentalism": {"desc": "", "freq": 1}, "neo-functionalism": {"desc": "", "freq": 1}, "neo-dadaism": {"desc": "", "freq": 1}, "neo-confucianism": {"desc": "", "freq": 1}, "neo-celticism": {"desc": "", "freq": 1}, "neo-bolshevism": {"desc": "", "freq": 1}, "necro-sadism": {"desc": "", "freq": 1}, "necessarianism": {"desc": "", "freq": 2}, "naziism": {"desc": "", "freq": 1}, "nazi-ism": {"desc": "", "freq": 1}, "napoleonism": {"desc": "", "freq": 1}, "mystical-marxism": {"desc": "", "freq": 1}, "mystery-mechanism": {"desc": "", "freq": 1}, "mutalism": {"desc": "", "freq": 1}, "multinationalism": {"desc": "", "freq": 1}, "moseism": {"desc": "", "freq": 1}, "mosaicism": {"desc": "", "freq": 1}, "monophysitism": {"desc": "", "freq": 1}, "monoculturalism": {"desc": "", "freq": 1}, "monochromaticism": {"desc": "", "freq": 1}, "mohammedanism": {"desc": "", "freq": 1}, "mobutism": {"desc": "", "freq": 1}, "miniaturism": {"desc": "", "freq": 1}, "mid-parallelism": {"desc": "", "freq": 1}, "mid-classicism": {"desc": "", "freq": 1}, "microcorporatism": {"desc": "", "freq": 1}, "micro-nationalism": {"desc": "", "freq": 1}, "micro-fascism": {"desc": "", "freq": 1}, "micro-corporatism": {"desc": "", "freq": 1}, "metermarism": {"desc": "", "freq": 1}, "menshevism": {"desc": "", "freq": 1}, "meliorism": {"desc": "", "freq": 1}, "meism": {"desc": "", "freq": 1}, "megalithism": {"desc": "", "freq": 1}, "medium-termism": {"desc": "", "freq": 1}, "mcluhanism": {"desc": "", "freq": 1}, "mbitikontourism": {"desc": "", "freq": 1}, "mass-tourism": {"desc": "", "freq": 1}, "marxist-existentialism": {"desc": "", "freq": 1}, "marx-ism": {"desc": "", "freq": 1}, "marhaenism": {"desc": "", "freq": 1}, "marginalism": {"desc": "", "freq": 1}, "manchesterism": {"desc": "", "freq": 1}, "malapropism": {"desc": "", "freq": 2}, "mailerism": {"desc": "", "freq": 1}, "magdalenism": {"desc": "", "freq": 1}, "maenadism": {"desc": "", "freq": 1}, "macro-connectionism": {"desc": "", "freq": 1}, "luxemburgism": {"desc": "", "freq": 2}, "looksism": {"desc": "", "freq": 1}, "londonism": {"desc": "", "freq": 1}, "lnternationalism": {"desc": "", "freq": 1}, "little-englandism": {"desc": "", "freq": 1}, "linguisism": {"desc": "", "freq": 1}, "lingoism": {"desc": "", "freq": 1}, "lilliputianism": {"desc": "", "freq": 1}, "liberal-idealism": {"desc": "", "freq": 1}, "leavism": {"desc": "", "freq": 1}, "lawyerism": {"desc": "", "freq": 1}, "laudianism": {"desc": "", "freq": 1}, "latrodectism": {"desc": "", "freq": 1}, "late-romanticism": {"desc": "", "freq": 1}, "larrikinism": {"desc": "", "freq": 1}, "lacanism": {"desc": "", "freq": 1}, "khrushchevism": {"desc": "", "freq": 1}, "khalaftourism": {"desc": "", "freq": 1}, "kantianism": {"desc": "", "freq": 1}, "kadarism": {"desc": "", "freq": 1}, "kabbalism": {"desc": "", "freq": 2}, "jungianism": {"desc": "", "freq": 1}, "joachimism": {"desc": "", "freq": 1}, "jism": {"desc": "", "freq": 1}, "jesuitism": {"desc": "", "freq": 1}, "japanism": {"desc": "", "freq": 1}, "islamism": {"desc": "", "freq": 1}, "islamicism": {"desc": "", "freq": 2}, "irredentism": {"desc": "", "freq": 1}, "irrealism": {"desc": "", "freq": 1}, "involuntarism": {"desc": "", "freq": 1}, "interpretivism": {"desc": "", "freq": 1}, "intergovernmentalism": {"desc": "", "freq": 1}, "interconnectialism": {"desc": "", "freq": 1}, "inter-governmentalism": {"desc": "", "freq": 1}, "intentionalism": {"desc": "", "freq": 1}, "integralism": {"desc": "", "freq": 1}, "insurrectionism": {"desc": "", "freq": 1}, "inspirationalism": {"desc": "", "freq": 1}, "inotropism": {"desc": "", "freq": 1}, "inorganicism": {"desc": "", "freq": 1}, "influencialism": {"desc": "", "freq": 1}, "indigenism": {"desc": "", "freq": 1}, "indifferentism": {"desc": "", "freq": 1}, "indianism": {"desc": "", "freq": 1}, "inclusivism": {"desc": "", "freq": 1}, "inaltruism": {"desc": "", "freq": 1}, "impossibilism": {"desc": "", "freq": 1}, "immoralism": {"desc": "", "freq": 1}, "idiotism": {"desc": "", "freq": 1}, "ideologism": {"desc": "", "freq": 1}, "iconodulism": {"desc": "", "freq": 1}, "hypoparathyroidism": {"desc": "", "freq": 1}, "hypoaldosteronism": {"desc": "", "freq": 1}, "hypoadrenalism": {"desc": "", "freq": 1}, "hyperrealism": {"desc": "", "freq": 1}, "hyperparasitism": {"desc": "", "freq": 1}, "hypernationalism": {"desc": "", "freq": 1}, "hypermetabolism": {"desc": "", "freq": 1}, "hyperinsulinism": {"desc": "", "freq": 1}, "hypercortisolism": {"desc": "", "freq": 1}, "hyperaldosteronism": {"desc": "", "freq": 1}, "hyper-organism": {"desc": "", "freq": 1}, "hyper-nationalism": {"desc": "", "freq": 1}, "hyper-calvinism": {"desc": "", "freq": 1}, "hungarianism": {"desc": "", "freq": 1}, "homomorphism": {"desc": "", "freq": 1}, "homo-eroticism": {"desc": "", "freq": 1}, "holism-individualism": {"desc": "", "freq": 1}, "hoboism": {"desc": "", "freq": 1}, "hobbyism": {"desc": "", "freq": 1}, "hispanicism": {"desc": "", "freq": 1}, "hipmotism": {"desc": "", "freq": 1}, "hermeticism": {"desc": "", "freq": 2}, "hereditarianism": {"desc": "", "freq": 1}, "heliocentrism": {"desc": "", "freq": 1}, "hebraism": {"desc": "", "freq": 2}, "halltourism": {"desc": "", "freq": 1}, "gynocentrism": {"desc": "", "freq": 1}, "groupism": {"desc": "", "freq": 1}, "greggism": {"desc": "", "freq": 1}, "greenhamism": {"desc": "", "freq": 1}, "gothicism": {"desc": "", "freq": 1}, "gorbachevism": {"desc": "", "freq": 2}, "godfatherism": {"desc": "", "freq": 2}, "giganticism": {"desc": "", "freq": 1}, "germanism": {"desc": "", "freq": 1}, "geocentrism": {"desc": "", "freq": 1}, "gallicism": {"desc": "", "freq": 1}, "furudism": {"desc": "", "freq": 1}, "free-marketism": {"desc": "", "freq": 1}, "freakism": {"desc": "", "freq": 1}, "food-fetishism": {"desc": "", "freq": 1}, "folklore-ism": {"desc": "", "freq": 1}, "flatcherism": {"desc": "", "freq": 1}, "flag-nationalism": {"desc": "", "freq": 1}, "filiopietism": {"desc": "", "freq": 1}, "fideism": {"desc": "", "freq": 1}, "fenianism": {"desc": "", "freq": 1}, "feminisism": {"desc": "", "freq": 1}, "feel-goodism": {"desc": "", "freq": 1}, "favoritism": {"desc": "", "freq": 1}, "faddism": {"desc": "", "freq": 1}, "factionism": {"desc": "", "freq": 1}, "facism": {"desc": "", "freq": 1}, "exterminism": {"desc": "", "freq": 1}, "expulsionism": {"desc": "", "freq": 1}, "expressivism": {"desc": "", "freq": 1}, "exclusionism": {"desc": "", "freq": 1}, "evangelicism": {"desc": "", "freq": 1}, "euro-protectionism": {"desc": "", "freq": 1}, "euro-mechanism": {"desc": "", "freq": 1}, "euro-fanaticism": {"desc": "", "freq": 1}, "euro-dirigism": {"desc": "", "freq": 1}, "euphuism": {"desc": "", "freq": 1}, "euphemsism": {"desc": "", "freq": 1}, "ethno-racism": {"desc": "", "freq": 1}, "ethno-centricism": {"desc": "", "freq": 1}, "erythrism": {"desc": "", "freq": 1}, "equalitarianism": {"desc": "", "freq": 1}, "episcopalianism": {"desc": "", "freq": 3}, "epiphenomenalism": {"desc": "", "freq": 1}, "epigrammaticism": {"desc": "", "freq": 1}, "epicureanism": {"desc": "", "freq": 2}, "entrepreneurism": {"desc": "", "freq": 1}, "entrepreneuralism": {"desc": "", "freq": 1}, "englanderism": {"desc": "", "freq": 1}, "emperorism": {"desc": "", "freq": 1}, "emersonianism": {"desc": "", "freq": 1}, "eliabethanism": {"desc": "", "freq": 1}, "electoralism": {"desc": "", "freq": 1}, "egocentricism": {"desc": "", "freq": 1}, "egalitaranism": {"desc": "", "freq": 1}, "effortitism": {"desc": "", "freq": 1}, "effortism": {"desc": "", "freq": 1}, "eco-vandalism": {"desc": "", "freq": 1}, "eco-terrorism": {"desc": "", "freq": 1}, "ecclesiasticism": {"desc": "", "freq": 1}, "dysfunctionalism": {"desc": "", "freq": 1}, "dynamicism": {"desc": "", "freq": 1}, "dual-organism": {"desc": "", "freq": 1}, "druidism": {"desc": "", "freq": 1}, "dositejism": {"desc": "", "freq": 1}, "donothingism": {"desc": "", "freq": 1}, "dogmaticism": {"desc": "", "freq": 1}, "doctrinairism": {"desc": "", "freq": 1}, "do-goodism": {"desc": "", "freq": 1}, "disciplinarianism": {"desc": "", "freq": 1}, "disabledism": {"desc": "", "freq": 1}, "dirtisisism": {"desc": "", "freq": 1}, "dirigism": {"desc": "", "freq": 1}, "dirigisism": {"desc": "", "freq": 1}, "die-hardism": {"desc": "", "freq": 1}, "didactism": {"desc": "", "freq": 1}, "dichromatism": {"desc": "", "freq": 1}, "diapirism": {"desc": "", "freq": 2}, "diamagnetism": {"desc": "", "freq": 1}, "dialectalism": {"desc": "", "freq": 1}, "deviationism": {"desc": "", "freq": 1}, "descriptivism": {"desc": "", "freq": 1}, "demonism": {"desc": "", "freq": 1}, "delorsism": {"desc": "", "freq": 1}, "definitionalism": {"desc": "", "freq": 1}, "deductionism": {"desc": "", "freq": 1}, "deconstructivism": {"desc": "", "freq": 1}, "decentralism": {"desc": "", "freq": 1}, "cuckooism": {"desc": "", "freq": 1}, "crypto-cartesianism": {"desc": "", "freq": 1}, "croneyism": {"desc": "", "freq": 1}, "croceanism": {"desc": "", "freq": 1}, "critism": {"desc": "", "freq": 1}, "critiism": {"desc": "", "freq": 1}, "counterterrorism": {"desc": "", "freq": 1}, "counterinductivism": {"desc": "", "freq": 1}, "counter-protectionism": {"desc": "", "freq": 1}, "counter-modernism": {"desc": "", "freq": 1}, "counter-communism": {"desc": "", "freq": 1}, "costumbrism": {"desc": "", "freq": 1}, "cornucopianism": {"desc": "", "freq": 1}, "copyism": {"desc": "", "freq": 1}, "coporatism": {"desc": "", "freq": 1}, "cookism": {"desc": "", "freq": 1}, "contrapuntalism": {"desc": "", "freq": 1}, "contortionism": {"desc": "", "freq": 1}, "contextualism": {"desc": "", "freq": 1}, "consumism": {"desc": "", "freq": 1}, "confusionism": {"desc": "", "freq": 1}, "confucionism": {"desc": "", "freq": 1}, "confrontationalism": {"desc": "", "freq": 1}, "conciliarism": {"desc": "", "freq": 1}, "communo-socialism": {"desc": "", "freq": 1}, "commonwealthism": {"desc": "", "freq": 1}, "commodity-fetishism": {"desc": "", "freq": 2}, "commensalism": {"desc": "", "freq": 2}, "cometabolism": {"desc": "", "freq": 1}, "combat-cannibalism": {"desc": "", "freq": 1}, "colon-ialism": {"desc": "", "freq": 1}, "collaborationism": {"desc": "", "freq": 1}, "colbertism": {"desc": "", "freq": 1}, "cockneyism": {"desc": "", "freq": 1}, "class-centrism": {"desc": "", "freq": 1}, "cisalpinism": {"desc": "", "freq": 1}, "church-of-englandism": {"desc": "", "freq": 1}, "christianism": {"desc": "", "freq": 1}, "chomskyism": {"desc": "", "freq": 1}, "chavinism": {"desc": "", "freq": 1}, "chameleonism": {"desc": "", "freq": 1}, "cerebrism": {"desc": "", "freq": 1}, "cerebralism": {"desc": "", "freq": 1}, "centreism": {"desc": "", "freq": 1}, "catholism": {"desc": "", "freq": 1}, "cathechism": {"desc": "", "freq": 1}, "catharism": {"desc": "", "freq": 1}, "catalanism": {"desc": "", "freq": 2}, "capitialism": {"desc": "", "freq": 1}, "caodaism": {"desc": "", "freq": 1}, "caesaropapism": {"desc": "", "freq": 2}, "cabalism": {"desc": "", "freq": 1}, "buttyism": {"desc": "", "freq": 1}, "butism": {"desc": "", "freq": 1}, "burnettodesmondism": {"desc": "", "freq": 1}, "braggartism": {"desc": "", "freq": 1}, "bradyseism": {"desc": "", "freq": 1}, "bradymetabolism": {"desc": "", "freq": 1}, "bolsho-bonapartism": {"desc": "", "freq": 1}, "bocodonism": {"desc": "", "freq": 1}, "bloke-ism": {"desc": "", "freq": 1}, "bipolarism": {"desc": "", "freq": 1}, "bioregionalism": {"desc": "", "freq": 1}, "binarism": {"desc": "", "freq": 1}, "bimetallism": {"desc": "", "freq": 1}, "bidialectalism": {"desc": "", "freq": 1}, "bicameralism": {"desc": "", "freq": 1}, "bi-dialectalism": {"desc": "", "freq": 1}, "bhuddism": {"desc": "", "freq": 1}, "bevanism": {"desc": "", "freq": 1}, "berkleyanism": {"desc": "", "freq": 1}, "benthamism": {"desc": "", "freq": 1}, "behavourism": {"desc": "", "freq": 1}, "behaviorism": {"desc": "", "freq": 1}, "baulkism": {"desc": "", "freq": 1}, "bauerism": {"desc": "", "freq": 1}, "barbarianism": {"desc": "", "freq": 1}, "bangorism": {"desc": "", "freq": 1}, "bangorianism": {"desc": "", "freq": 1}, "avant-guardism": {"desc": "", "freq": 1}, "autotelism": {"desc": "", "freq": 1}, "automorphism": {"desc": "", "freq": 1}, "autoeroticism": {"desc": "", "freq": 1}, "auto-iconism": {"desc": "", "freq": 1}, "austinianism": {"desc": "", "freq": 1}, "aurlism": {"desc": "", "freq": 1}, "atenism": {"desc": "", "freq": 1}, "ascetism": {"desc": "", "freq": 1}, "aryanism": {"desc": "", "freq": 1}, "art-criticism": {"desc": "", "freq": 2}, "aristotelianism": {"desc": "", "freq": 2}, "archaicism": {"desc": "", "freq": 1}, "arabo-islamism": {"desc": "", "freq": 1}, "apoliticism": {"desc": "", "freq": 1}, "apartheid-capitalism": {"desc": "", "freq": 1}, "antisocialism": {"desc": "", "freq": 1}, "antidisenstablishmentarialism": {"desc": "", "freq": 1}, "anticommunism": {"desc": "", "freq": 1}, "anticlassicism": {"desc": "", "freq": 1}, "anticatholicism": {"desc": "", "freq": 1}, "anti-vocationalism": {"desc": "", "freq": 1}, "anti-urbanism": {"desc": "", "freq": 1}, "anti-traditionalism": {"desc": "", "freq": 1}, "anti-tourism": {"desc": "", "freq": 1}, "anti-thatcherism": {"desc": "", "freq": 1}, "anti-suburbanism": {"desc": "", "freq": 1}, "anti-structuralism": {"desc": "", "freq": 1}, "anti-sovietism": {"desc": "", "freq": 2}, "anti-romanticism": {"desc": "", "freq": 1}, "anti-rockism": {"desc": "", "freq": 1}, "anti-relativism": {"desc": "", "freq": 1}, "anti-rationalism": {"desc": "", "freq": 1}, "anti-puritanism": {"desc": "", "freq": 1}, "anti-positivism": {"desc": "", "freq": 1}, "anti-polonism": {"desc": "", "freq": 1}, "anti-pluralism": {"desc": "", "freq": 1}, "anti-philistinism": {"desc": "", "freq": 1}, "anti-pharisaism": {"desc": "", "freq": 1}, "anti-partitionism": {"desc": "", "freq": 1}, "anti-naturalism": {"desc": "", "freq": 1}, "anti-nationalism": {"desc": "", "freq": 1}, "anti-monopolism": {"desc": "", "freq": 1}, "anti-monarchism": {"desc": "", "freq": 1}, "anti-materialism": {"desc": "", "freq": 2}, "anti-judaism": {"desc": "", "freq": 1}, "anti-jacobinism": {"desc": "", "freq": 2}, "anti-individualism": {"desc": "", "freq": 1}, "anti-illusionism": {"desc": "", "freq": 1}, "anti-hitlerism": {"desc": "", "freq": 1}, "anti-hegemonism": {"desc": "", "freq": 1}, "anti-germanism": {"desc": "", "freq": 1}, "anti-francoism": {"desc": "", "freq": 1}, "anti-formalism": {"desc": "", "freq": 1}, "anti-foreignism": {"desc": "", "freq": 1}, "anti-federalism": {"desc": "", "freq": 2}, "anti-essentialism": {"desc": "", "freq": 1}, "anti-environmentalism": {"desc": "", "freq": 1}, "anti-egalitarianism": {"desc": "", "freq": 1}, "anti-darwinism": {"desc": "", "freq": 1}, "anti-culturalism": {"desc": "", "freq": 1}, "anti-conservatism": {"desc": "", "freq": 1}, "anti-bureaucratism": {"desc": "", "freq": 1}, "anti-aristotelianism": {"desc": "", "freq": 2}, "anti-arabism": {"desc": "", "freq": 1}, "anti-academicism": {"desc": "", "freq": 1}, "anti-abortionism": {"desc": "", "freq": 1}, "anthropism": {"desc": "", "freq": 1}, "animal-metabolism": {"desc": "", "freq": 1}, "anglocentrism": {"desc": "", "freq": 1}, "anglo-saxonism": {"desc": "", "freq": 1}, "anglicism": {"desc": "", "freq": 1}, "angellism": {"desc": "", "freq": 1}, "angelism": {"desc": "", "freq": 1}, "aneuyrism": {"desc": "", "freq": 1}, "aneurism": {"desc": "", "freq": 1}, "anarcho-syndicalism": {"desc": "", "freq": 2}, "amphibianism": {"desc": "", "freq": 1}, "althusserianism": {"desc": "", "freq": 2}, "alexandrianism": {"desc": "", "freq": 1}, "aleatoricism": {"desc": "", "freq": 1}, "alarmism": {"desc": "", "freq": 1}, "agriculturalism": {"desc": "", "freq": 1}, "agrarian-nationalism": {"desc": "", "freq": 1}, "agapemonism": {"desc": "", "freq": 1}, "africanism": {"desc": "", "freq": 1}, "aerodynamism": {"desc": "", "freq": 1}, "aceticism": {"desc": "", "freq": 1}, "accommodationism": {"desc": "", "freq": 1}, "academism": {"desc": "", "freq": 1}, "abstentionism": {"desc": "", "freq": 1}, "abortionism": {"desc": "", "freq": 1}, "ableism": {"desc": "", "freq": 1}}
+{
+    "criticism": {
+        "desc": "",
+        "freq": 4765
+    },
+    "mechanism": {
+        "desc": "mechanics",
+        "freq": 2932
+    },
+    "capitalism": {
+        "desc": "",
+        "freq": 1945
+    },
+    "socialism": {
+        "desc": "",
+        "freq": 1670
+    },
+    "tourism": {
+        "desc": "",
+        "freq": 1458
+    },
+    "racism": {
+        "desc": "races",
+        "freq": 1092
+    },
+    "nationalism": {
+        "desc": "",
+        "freq": 1008
+    },
+    "communism": {
+        "desc": "communes",
+        "freq": 958
+    },
+    "realism": {
+        "desc": "",
+        "freq": 939
+    },
+    "optimism": {
+        "desc": "",
+        "freq": 843
+    },
+    "organism": {
+        "desc": "",
+        "freq": 785
+    },
+    "terrorism": {
+        "desc": "",
+        "freq": 702
+    },
+    "feminism": {
+        "desc": "",
+        "freq": 696
+    },
+    "scepticism": {
+        "desc": "",
+        "freq": 648
+    },
+    "fascism": {
+        "desc": "",
+        "freq": 658
+    },
+    "journalism": {
+        "desc": "",
+        "freq": 604
+    },
+    "marxism": {
+        "desc": "",
+        "freq": 731
+    },
+    "professionalism": {
+        "desc": "",
+        "freq": 498
+    },
+    "metabolism": {
+        "desc": "",
+        "freq": 493
+    },
+    "liberalism": {
+        "desc": "",
+        "freq": 506
+    },
+    "baptism": {
+        "desc": "",
+        "freq": 441
+    },
+    "imperialism": {
+        "desc": "",
+        "freq": 439
+    },
+    "conservatism": {
+        "desc": "",
+        "freq": 487
+    },
+    "unionism": {
+        "desc": "",
+        "freq": 393
+    },
+    "individualism": {
+        "desc": "",
+        "freq": 390
+    },
+    "symbolism": {
+        "desc": "",
+        "freq": 380
+    },
+    "pluralism": {
+        "desc": "",
+        "freq": 386
+    },
+    "modernism": {
+        "desc": "",
+        "freq": 415
+    },
+    "vandalism": {
+        "desc": "",
+        "freq": 342
+    },
+    "sexism": {
+        "desc": "sexes",
+        "freq": 300
+    },
+    "idealism": {
+        "desc": "",
+        "freq": 319
+    },
+    "cynicism": {
+        "desc": "",
+        "freq": 278
+    },
+    "antagonism": {
+        "desc": "",
+        "freq": 268
+    },
+    "patriotism": {
+        "desc": "",
+        "freq": 283
+    },
+    "materialism": {
+        "desc": "",
+        "freq": 258
+    },
+    "radicalism": {
+        "desc": "",
+        "freq": 252
+    },
+    "catholicism": {
+        "desc": "",
+        "freq": 331
+    },
+    "alcoholism": {
+        "desc": "",
+        "freq": 246
+    },
+    "colonialism": {
+        "desc": "",
+        "freq": 221
+    },
+    "positivism": {
+        "desc": "",
+        "freq": 214
+    },
+    "pragmatism": {
+        "desc": "",
+        "freq": 226
+    },
+    "protectionism": {
+        "desc": "",
+        "freq": 201
+    },
+    "altruism": {
+        "desc": "",
+        "freq": 194
+    },
+    "hooliganism": {
+        "desc": "",
+        "freq": 199
+    },
+    "pessimism": {
+        "desc": "",
+        "freq": 191
+    },
+    "structuralism": {
+        "desc": "",
+        "freq": 198
+    },
+    "consumerism": {
+        "desc": "",
+        "freq": 186
+    },
+    "mysticism": {
+        "desc": "",
+        "freq": 177
+    },
+    "magnetism": {
+        "desc": "",
+        "freq": 174
+    },
+    "determinism": {
+        "desc": "",
+        "freq": 170
+    },
+    "humanism": {
+        "desc": "",
+        "freq": 175
+    },
+    "absenteeism": {
+        "desc": "",
+        "freq": 170
+    },
+    "romanticism": {
+        "desc": "",
+        "freq": 195
+    },
+    "cubism": {
+        "desc": "",
+        "freq": 176
+    },
+    "feudalism": {
+        "desc": "",
+        "freq": 160
+    },
+    "federalism": {
+        "desc": "",
+        "freq": 164
+    },
+    "evangelism": {
+        "desc": "",
+        "freq": 171
+    },
+    "anti-semitism": {
+        "desc": "",
+        "freq": 255
+    },
+    "parallelism": {
+        "desc": "",
+        "freq": 147
+    },
+    "dynamism": {
+        "desc": "",
+        "freq": 148
+    },
+    "judaism": {
+        "desc": "",
+        "freq": 262
+    },
+    "corporatism": {
+        "desc": "",
+        "freq": 158
+    },
+    "fundamentalism": {
+        "desc": "",
+        "freq": 148
+    },
+    "utilitarianism": {
+        "desc": "",
+        "freq": 145
+    },
+    "holism": {
+        "desc": "",
+        "freq": 142
+    },
+    "rationalism": {
+        "desc": "",
+        "freq": 138
+    },
+    "postmodernism": {
+        "desc": "",
+        "freq": 150
+    },
+    "separatism": {
+        "desc": "",
+        "freq": 133
+    },
+    "functionalism": {
+        "desc": "",
+        "freq": 139
+    },
+    "surrealism": {
+        "desc": "",
+        "freq": 139
+    },
+    "formalism": {
+        "desc": "",
+        "freq": 125
+    },
+    "heroism": {
+        "desc": "",
+        "freq": 124
+    },
+    "ageism": {
+        "desc": "",
+        "freq": 138
+    },
+    "dualism": {
+        "desc": "",
+        "freq": 126
+    },
+    "buddhism": {
+        "desc": "",
+        "freq": 205
+    },
+    "protestantism": {
+        "desc": "",
+        "freq": 169
+    },
+    "historicism": {
+        "desc": "",
+        "freq": 116
+    },
+    "empiricism": {
+        "desc": "",
+        "freq": 121
+    },
+    "collectivism": {
+        "desc": "",
+        "freq": 119
+    },
+    "activism": {
+        "desc": "",
+        "freq": 115
+    },
+    "schism": {
+        "desc": "",
+        "freq": 113
+    },
+    "relativism": {
+        "desc": "",
+        "freq": 116
+    },
+    "egalitarianism": {
+        "desc": "",
+        "freq": 115
+    },
+    "internationalism": {
+        "desc": "",
+        "freq": 111
+    },
+    "paternalism": {
+        "desc": "",
+        "freq": 109
+    },
+    "naturalism": {
+        "desc": "",
+        "freq": 111
+    },
+    "rheumatism": {
+        "desc": "",
+        "freq": 107
+    },
+    "barbarism": {
+        "desc": "",
+        "freq": 103
+    },
+    "anachronism": {
+        "desc": "",
+        "freq": 102
+    },
+    "thatcherism": {
+        "desc": "",
+        "freq": 226
+    },
+    "favouritism": {
+        "desc": "",
+        "freq": 101
+    },
+    "conventionalism": {
+        "desc": "",
+        "freq": 115
+    },
+    "chauvinism": {
+        "desc": "",
+        "freq": 96
+    },
+    "opportunism": {
+        "desc": "",
+        "freq": 99
+    },
+    "fanaticism": {
+        "desc": "",
+        "freq": 95
+    },
+    "authoritarianism": {
+        "desc": "",
+        "freq": 96
+    },
+    "elitism": {
+        "desc": "",
+        "freq": 99
+    },
+    "despotism": {
+        "desc": "",
+        "freq": 94
+    },
+    "extremism": {
+        "desc": "",
+        "freq": 93
+    },
+    "pacifism": {
+        "desc": "",
+        "freq": 96
+    },
+    "darwinism": {
+        "desc": "",
+        "freq": 121
+    },
+    "atheism": {
+        "desc": "",
+        "freq": 94
+    },
+    "catechism": {
+        "desc": "",
+        "freq": 104
+    },
+    "euphemism": {
+        "desc": "",
+        "freq": 89
+    },
+    "specialism": {
+        "desc": "",
+        "freq": 91
+    },
+    "lesbianism": {
+        "desc": "",
+        "freq": 91
+    },
+    "commercialism": {
+        "desc": "",
+        "freq": 89
+    },
+    "antiracism": {
+        "desc": "",
+        "freq": 89
+    },
+    "classicism": {
+        "desc": "",
+        "freq": 89
+    },
+    "narcissism": {
+        "desc": "",
+        "freq": 86
+    },
+    "hinduism": {
+        "desc": "",
+        "freq": 163
+    },
+    "militarism": {
+        "desc": "",
+        "freq": 84
+    },
+    "behaviourism": {
+        "desc": "",
+        "freq": 83
+    },
+    "truism": {
+        "desc": "",
+        "freq": 79
+    },
+    "dimorphism": {
+        "desc": "",
+        "freq": 78
+    },
+    "egoism": {
+        "desc": "",
+        "freq": 79
+    },
+    "cannibalism": {
+        "desc": "",
+        "freq": 77
+    },
+    "prism": {
+        "desc": "",
+        "freq": 80
+    },
+    "reductionism": {
+        "desc": "",
+        "freq": 77
+    },
+    "expressionism": {
+        "desc": "",
+        "freq": 85
+    },
+    "polymorphism": {
+        "desc": "",
+        "freq": 69
+    },
+    "populism": {
+        "desc": "",
+        "freq": 69
+    },
+    "republicanism": {
+        "desc": "",
+        "freq": 70
+    },
+    "paganism": {
+        "desc": "",
+        "freq": 67
+    },
+    "labourism": {
+        "desc": "",
+        "freq": 72
+    },
+    "fatalism": {
+        "desc": "",
+        "freq": 68
+    },
+    "dogmatism": {
+        "desc": "",
+        "freq": 66
+    },
+    "escapism": {
+        "desc": "",
+        "freq": 68
+    },
+    "methodism": {
+        "desc": "",
+        "freq": 97
+    },
+    "theism": {
+        "desc": "",
+        "freq": 64
+    },
+    "poststructuralism": {
+        "desc": "",
+        "freq": 65
+    },
+    "nepotism": {
+        "desc": "",
+        "freq": 67
+    },
+    "totalitarianism": {
+        "desc": "",
+        "freq": 62
+    },
+    "multiculturalism": {
+        "desc": "",
+        "freq": 64
+    },
+    "impressionism": {
+        "desc": "",
+        "freq": 73
+    },
+    "monetarism": {
+        "desc": "",
+        "freq": 67
+    },
+    "hedonism": {
+        "desc": "",
+        "freq": 64
+    },
+    "sectarianism": {
+        "desc": "",
+        "freq": 62
+    },
+    "eroticism": {
+        "desc": "",
+        "freq": 64
+    },
+    "absolutism": {
+        "desc": "",
+        "freq": 63
+    },
+    "sadism": {
+        "desc": "",
+        "freq": 63
+    },
+    "lyricism": {
+        "desc": "",
+        "freq": 61
+    },
+    "centralism": {
+        "desc": "",
+        "freq": 58
+    },
+    "foundationalism": {
+        "desc": "",
+        "freq": 65
+    },
+    "evolutionism": {
+        "desc": "",
+        "freq": 61
+    },
+    "volcanism": {
+        "desc": "",
+        "freq": 57
+    },
+    "stalinism": {
+        "desc": "",
+        "freq": 85
+    },
+    "localism": {
+        "desc": "",
+        "freq": 58
+    },
+    "exorcism": {
+        "desc": "",
+        "freq": 56
+    },
+    "regionalism": {
+        "desc": "",
+        "freq": 62
+    },
+    "masochism": {
+        "desc": "",
+        "freq": 57
+    },
+    "isolationism": {
+        "desc": "",
+        "freq": 53
+    },
+    "eclecticism": {
+        "desc": "",
+        "freq": 55
+    },
+    "secularism": {
+        "desc": "",
+        "freq": 54
+    },
+    "bilingualism": {
+        "desc": "",
+        "freq": 55
+    },
+    "nazism": {
+        "desc": "",
+        "freq": 96
+    },
+    "jacobitism": {
+        "desc": "",
+        "freq": 64
+    },
+    "plagiarism": {
+        "desc": "",
+        "freq": 51
+    },
+    "lamarckism": {
+        "desc": "",
+        "freq": 55
+    },
+    "environmentalism": {
+        "desc": "",
+        "freq": 51
+    },
+    "heterosexism": {
+        "desc": "",
+        "freq": 52
+    },
+    "factionalism": {
+        "desc": "",
+        "freq": 47
+    },
+    "animism": {
+        "desc": "",
+        "freq": 49
+    },
+    "vegetarianism": {
+        "desc": "",
+        "freq": 47
+    },
+    "traditionalism": {
+        "desc": "",
+        "freq": 46
+    },
+    "asceticism": {
+        "desc": "",
+        "freq": 46
+    },
+    "constitutionalism": {
+        "desc": "",
+        "freq": 47
+    },
+    "industrialism": {
+        "desc": "",
+        "freq": 47
+    },
+    "egotism": {
+        "desc": "",
+        "freq": 44
+    },
+    "expansionism": {
+        "desc": "",
+        "freq": 43
+    },
+    "fordism": {
+        "desc": "",
+        "freq": 47
+    },
+    "essentialism": {
+        "desc": "",
+        "freq": 41
+    },
+    "calvinism": {
+        "desc": "",
+        "freq": 62
+    },
+    "athleticism": {
+        "desc": "",
+        "freq": 43
+    },
+    "amateurism": {
+        "desc": "",
+        "freq": 44
+    },
+    "puritanism": {
+        "desc": "",
+        "freq": 61
+    },
+    "monotheism": {
+        "desc": "",
+        "freq": 43
+    },
+    "marxism-leninism": {
+        "desc": "",
+        "freq": 52
+    },
+    "electromagnetism": {
+        "desc": "",
+        "freq": 40
+    },
+    "aphorism": {
+        "desc": "",
+        "freq": 40
+    },
+    "voluntarism": {
+        "desc": "",
+        "freq": 39
+    },
+    "constructivism": {
+        "desc": "",
+        "freq": 45
+    },
+    "antisemitism": {
+        "desc": "",
+        "freq": 41
+    },
+    "zionism": {
+        "desc": "",
+        "freq": 54
+    },
+    "toryism": {
+        "desc": "",
+        "freq": 48
+    },
+    "reformism": {
+        "desc": "",
+        "freq": 39
+    },
+    "bolshevism": {
+        "desc": "",
+        "freq": 62
+    },
+    "ostracism": {
+        "desc": "",
+        "freq": 39
+    },
+    "stoicism": {
+        "desc": "",
+        "freq": 43
+    },
+    "sensationalism": {
+        "desc": "",
+        "freq": 36
+    },
+    "ecumenism": {
+        "desc": "",
+        "freq": 36
+    },
+    "voyeurism": {
+        "desc": "",
+        "freq": 35
+    },
+    "nihilism": {
+        "desc": "",
+        "freq": 35
+    },
+    "mannerism": {
+        "desc": "",
+        "freq": 38
+    },
+    "unilateralism": {
+        "desc": "",
+        "freq": 34
+    },
+    "subjectivism": {
+        "desc": "",
+        "freq": 33
+    },
+    "solipsism": {
+        "desc": "",
+        "freq": 34
+    },
+    "universalism": {
+        "desc": "",
+        "freq": 35
+    },
+    "supranationalism": {
+        "desc": "",
+        "freq": 32
+    },
+    "self-criticism": {
+        "desc": "",
+        "freq": 63
+    },
+    "minimalism": {
+        "desc": "",
+        "freq": 35
+    },
+    "keynesianism": {
+        "desc": "",
+        "freq": 41
+    },
+    "interactionism": {
+        "desc": "",
+        "freq": 39
+    },
+    "futurism": {
+        "desc": "",
+        "freq": 34
+    },
+    "revisionism": {
+        "desc": "",
+        "freq": 32
+    },
+    "racialism": {
+        "desc": "",
+        "freq": 32
+    },
+    "polytheism": {
+        "desc": "",
+        "freq": 31
+    },
+    "defeatism": {
+        "desc": "",
+        "freq": 31
+    },
+    "primitivism": {
+        "desc": "",
+        "freq": 32
+    },
+    "isomerism": {
+        "desc": "",
+        "freq": 30
+    },
+    "interventionism": {
+        "desc": "",
+        "freq": 30
+    },
+    "incrementalism": {
+        "desc": "",
+        "freq": 31
+    },
+    "agnosticism": {
+        "desc": "",
+        "freq": 31
+    },
+    "fetishism": {
+        "desc": "",
+        "freq": 32
+    },
+    "anglicanism": {
+        "desc": "",
+        "freq": 55
+    },
+    "short-termism": {
+        "desc": "",
+        "freq": 49
+    },
+    "normativism": {
+        "desc": "",
+        "freq": 28
+    },
+    "legalism": {
+        "desc": "",
+        "freq": 28
+    },
+    "existentialism": {
+        "desc": "",
+        "freq": 36
+    },
+    "gradualism": {
+        "desc": "",
+        "freq": 28
+    },
+    "evangelicalism": {
+        "desc": "",
+        "freq": 31
+    },
+    "atomism": {
+        "desc": "",
+        "freq": 30
+    },
+    "anticlericalism": {
+        "desc": "",
+        "freq": 28
+    },
+    "anarchism": {
+        "desc": "",
+        "freq": 29
+    },
+    "witticism": {
+        "desc": "",
+        "freq": 26
+    },
+    "spiritualism": {
+        "desc": "",
+        "freq": 30
+    },
+    "hellenism": {
+        "desc": "",
+        "freq": 33
+    },
+    "exhibitionism": {
+        "desc": "",
+        "freq": 28
+    },
+    "ethnocentrism": {
+        "desc": "",
+        "freq": 27
+    },
+    "autism": {
+        "desc": "",
+        "freq": 30
+    },
+    "utopianism": {
+        "desc": "",
+        "freq": 26
+    },
+    "satanism": {
+        "desc": "",
+        "freq": 28
+    },
+    "philistinism": {
+        "desc": "",
+        "freq": 28
+    },
+    "parochialism": {
+        "desc": "",
+        "freq": 25
+    },
+    "correctionalism": {
+        "desc": "",
+        "freq": 26
+    },
+    "scientism": {
+        "desc": "",
+        "freq": 25
+    },
+    "monasticism": {
+        "desc": "",
+        "freq": 27
+    },
+    "metamorphism": {
+        "desc": "",
+        "freq": 26
+    },
+    "anti-communism": {
+        "desc": "",
+        "freq": 37
+    },
+    "tribalism": {
+        "desc": "",
+        "freq": 23
+    },
+    "pastoralism": {
+        "desc": "",
+        "freq": 23
+    },
+    "managerialism": {
+        "desc": "",
+        "freq": 24
+    },
+    "confucianism": {
+        "desc": "",
+        "freq": 30
+    },
+    "tsarism": {
+        "desc": "",
+        "freq": 35
+    },
+    "triumphalism": {
+        "desc": "",
+        "freq": 23
+    },
+    "loyalism": {
+        "desc": "",
+        "freq": 22
+    },
+    "instrumentalism": {
+        "desc": "",
+        "freq": 22
+    },
+    "hypothyroidism": {
+        "desc": "",
+        "freq": 22
+    },
+    "hypnotism": {
+        "desc": "",
+        "freq": 25
+    },
+    "adventurism": {
+        "desc": "",
+        "freq": 22
+    },
+    "tokenism": {
+        "desc": "",
+        "freq": 25
+    },
+    "serialism": {
+        "desc": "",
+        "freq": 24
+    },
+    "perfectionism": {
+        "desc": "",
+        "freq": 24
+    },
+    "neutralism": {
+        "desc": "",
+        "freq": 21
+    },
+    "monism": {
+        "desc": "",
+        "freq": 25
+    },
+    "hyposplenism": {
+        "desc": "",
+        "freq": 21
+    },
+    "embolism": {
+        "desc": "",
+        "freq": 21
+    },
+    "economism": {
+        "desc": "",
+        "freq": 21
+    },
+    "chromaticism": {
+        "desc": "",
+        "freq": 22
+    },
+    "anthropomorphism": {
+        "desc": "",
+        "freq": 24
+    },
+    "aestheticism": {
+        "desc": "",
+        "freq": 23
+    },
+    "parasitism": {
+        "desc": "",
+        "freq": 20
+    },
+    "intellectualism": {
+        "desc": "",
+        "freq": 20
+    },
+    "humanitarianism": {
+        "desc": "",
+        "freq": 22
+    },
+    "fabianism": {
+        "desc": "",
+        "freq": 21
+    },
+    "oralism": {
+        "desc": "",
+        "freq": 20
+    },
+    "landlordism": {
+        "desc": "",
+        "freq": 19
+    },
+    "jingoism": {
+        "desc": "",
+        "freq": 19
+    },
+    "immaterialism": {
+        "desc": "",
+        "freq": 19
+    },
+    "didacticism": {
+        "desc": "",
+        "freq": 19
+    },
+    "urbanism": {
+        "desc": "",
+        "freq": 18
+    },
+    "syndicalism": {
+        "desc": "",
+        "freq": 19
+    },
+    "orientalism": {
+        "desc": "",
+        "freq": 28
+    },
+    "neoclassicism": {
+        "desc": "",
+        "freq": 22
+    },
+    "multilateralism": {
+        "desc": "",
+        "freq": 20
+    },
+    "illusionism": {
+        "desc": "",
+        "freq": 18
+    },
+    "exoticism": {
+        "desc": "",
+        "freq": 19
+    },
+    "attitudinism": {
+        "desc": "",
+        "freq": 19
+    },
+    "anti-americanism": {
+        "desc": "",
+        "freq": 26
+    },
+    "syllogism": {
+        "desc": "",
+        "freq": 17
+    },
+    "reductivism": {
+        "desc": "",
+        "freq": 20
+    },
+    "mccarthyism": {
+        "desc": "",
+        "freq": 17
+    },
+    "ism": {
+        "desc": "",
+        "freq": 25
+    },
+    "cosmopolitanism": {
+        "desc": "",
+        "freq": 17
+    },
+    "automatism": {
+        "desc": "",
+        "freq": 19
+    },
+    "anti-racism": {
+        "desc": "",
+        "freq": 29
+    },
+    "ventriloquism": {
+        "desc": "",
+        "freq": 17
+    },
+    "syncretism": {
+        "desc": "",
+        "freq": 17
+    },
+    "shamanism": {
+        "desc": "",
+        "freq": 18
+    },
+    "sado-masochism": {
+        "desc": "",
+        "freq": 20
+    },
+    "rowdyism": {
+        "desc": "",
+        "freq": 16
+    },
+    "recidivism": {
+        "desc": "",
+        "freq": 16
+    },
+    "progressivism": {
+        "desc": "",
+        "freq": 16
+    },
+    "presbyterianism": {
+        "desc": "",
+        "freq": 31
+    },
+    "post-structuralism": {
+        "desc": "",
+        "freq": 24
+    },
+    "owenism": {
+        "desc": "",
+        "freq": 17
+    },
+    "obscurantism": {
+        "desc": "",
+        "freq": 16
+    },
+    "microorganism": {
+        "desc": "",
+        "freq": 16
+    },
+    "gangsterism": {
+        "desc": "",
+        "freq": 16
+    },
+    "scholasticism": {
+        "desc": "",
+        "freq": 15
+    },
+    "psychologism": {
+        "desc": "",
+        "freq": 17
+    },
+    "objectivism": {
+        "desc": "",
+        "freq": 15
+    },
+    "neo-colonialism": {
+        "desc": "",
+        "freq": 24
+    },
+    "leftism": {
+        "desc": "",
+        "freq": 17
+    },
+    "isomorphism": {
+        "desc": "",
+        "freq": 16
+    },
+    "fauvism": {
+        "desc": "",
+        "freq": 18
+    },
+    "counter-terrorism": {
+        "desc": "",
+        "freq": 18
+    },
+    "clientelism": {
+        "desc": "",
+        "freq": 17
+    },
+    "chrism": {
+        "desc": "",
+        "freq": 15
+    },
+    "careerism": {
+        "desc": "",
+        "freq": 15
+    },
+    "astigmatism": {
+        "desc": "",
+        "freq": 19
+    },
+    "albinism": {
+        "desc": "",
+        "freq": 17
+    },
+    "provincialism": {
+        "desc": "",
+        "freq": 14
+    },
+    "obstructionism": {
+        "desc": "",
+        "freq": 14
+    },
+    "luddism": {
+        "desc": "",
+        "freq": 16
+    },
+    "literalism": {
+        "desc": "",
+        "freq": 14
+    },
+    "inductivism": {
+        "desc": "",
+        "freq": 15
+    },
+    "equestrianism": {
+        "desc": "",
+        "freq": 29
+    },
+    "emotionalism": {
+        "desc": "",
+        "freq": 14
+    },
+    "daoism": {
+        "desc": "",
+        "freq": 14
+    },
+    "chartism": {
+        "desc": "",
+        "freq": 20
+    },
+    "anti-clericalism": {
+        "desc": "",
+        "freq": 20
+    },
+    "americanism": {
+        "desc": "",
+        "freq": 16
+    },
+    "voluntaryism": {
+        "desc": "",
+        "freq": 13
+    },
+    "synchronism": {
+        "desc": "",
+        "freq": 13
+    },
+    "revivalism": {
+        "desc": "",
+        "freq": 14
+    },
+    "retributivism": {
+        "desc": "",
+        "freq": 20
+    },
+    "pauperism": {
+        "desc": "",
+        "freq": 13
+    },
+    "orphism": {
+        "desc": "",
+        "freq": 15
+    },
+    "nominalism": {
+        "desc": "",
+        "freq": 13
+    },
+    "maternalism": {
+        "desc": "",
+        "freq": 14
+    },
+    "libertarianism": {
+        "desc": "",
+        "freq": 13
+    },
+    "francoism": {
+        "desc": "",
+        "freq": 15
+    },
+    "colloquialism": {
+        "desc": "",
+        "freq": 14
+    },
+    "bonapartism": {
+        "desc": "",
+        "freq": 22
+    },
+    "bohemianism": {
+        "desc": "",
+        "freq": 14
+    },
+    "bipedalism": {
+        "desc": "",
+        "freq": 14
+    },
+    "academicism": {
+        "desc": "",
+        "freq": 13
+    },
+    "statism": {
+        "desc": "",
+        "freq": 12
+    },
+    "sabbatarianism": {
+        "desc": "",
+        "freq": 12
+    },
+    "moralism": {
+        "desc": "",
+        "freq": 12
+    },
+    "metasomatism": {
+        "desc": "",
+        "freq": 12
+    },
+    "herbalism": {
+        "desc": "",
+        "freq": 14
+    },
+    "conformism": {
+        "desc": "",
+        "freq": 12
+    },
+    "causalism": {
+        "desc": "",
+        "freq": 14
+    },
+    "botulism": {
+        "desc": "",
+        "freq": 14
+    },
+    "bilateralism": {
+        "desc": "",
+        "freq": 12
+    },
+    "uniformitarianism": {
+        "desc": "",
+        "freq": 14
+    },
+    "transvestism": {
+        "desc": "",
+        "freq": 16
+    },
+    "totemism": {
+        "desc": "",
+        "freq": 15
+    },
+    "solecism": {
+        "desc": "",
+        "freq": 11
+    },
+    "sikhism": {
+        "desc": "",
+        "freq": 15
+    },
+    "post-modernism": {
+        "desc": "",
+        "freq": 22
+    },
+    "particularism": {
+        "desc": "",
+        "freq": 11
+    },
+    "occultism": {
+        "desc": "",
+        "freq": 12
+    },
+    "majorism": {
+        "desc": "",
+        "freq": 19
+    },
+    "falsificationism": {
+        "desc": "",
+        "freq": 13
+    },
+    "carlism": {
+        "desc": "",
+        "freq": 18
+    },
+    "bureaucratism": {
+        "desc": "",
+        "freq": 12
+    },
+    "arminianism": {
+        "desc": "",
+        "freq": 18
+    },
+    "workaholism": {
+        "desc": "",
+        "freq": 11
+    },
+    "welfarism": {
+        "desc": "",
+        "freq": 10
+    },
+    "vocationalism": {
+        "desc": "",
+        "freq": 11
+    },
+    "unitarianism": {
+        "desc": "",
+        "freq": 16
+    },
+    "trotskyism": {
+        "desc": "",
+        "freq": 14
+    },
+    "transsexualism": {
+        "desc": "",
+        "freq": 13
+    },
+    "situationism": {
+        "desc": "",
+        "freq": 14
+    },
+    "relationism": {
+        "desc": "",
+        "freq": 12
+    },
+    "pianism": {
+        "desc": "",
+        "freq": 10
+    },
+    "neologism": {
+        "desc": "",
+        "freq": 10
+    },
+    "neo-classicism": {
+        "desc": "",
+        "freq": 21
+    },
+    "multilingualism": {
+        "desc": "",
+        "freq": 11
+    },
+    "magmatism": {
+        "desc": "",
+        "freq": 10
+    },
+    "logocentrism": {
+        "desc": "",
+        "freq": 11
+    },
+    "leninism": {
+        "desc": "",
+        "freq": 12
+    },
+    "jacobinism": {
+        "desc": "",
+        "freq": 10
+    },
+    "irrationalism": {
+        "desc": "",
+        "freq": 10
+    },
+    "gnosticism": {
+        "desc": "",
+        "freq": 21
+    },
+    "dwarfism": {
+        "desc": "",
+        "freq": 11
+    },
+    "creationism": {
+        "desc": "",
+        "freq": 10
+    },
+    "behaviouralism": {
+        "desc": "",
+        "freq": 13
+    },
+    "antiquarianism": {
+        "desc": "",
+        "freq": 10
+    },
+    "anti-realism": {
+        "desc": "",
+        "freq": 15
+    },
+    "verificationism": {
+        "desc": "",
+        "freq": 10
+    },
+    "super-organism": {
+        "desc": "",
+        "freq": 9
+    },
+    "socratism": {
+        "desc": "",
+        "freq": 9
+    },
+    "sadomasochism": {
+        "desc": "",
+        "freq": 10
+    },
+    "phenomenalism": {
+        "desc": "",
+        "freq": 12
+    },
+    "neo-realism": {
+        "desc": "",
+        "freq": 13
+    },
+    "negativism": {
+        "desc": "",
+        "freq": 9
+    },
+    "monumentalism": {
+        "desc": "",
+        "freq": 9
+    },
+    "legitimism": {
+        "desc": "",
+        "freq": 9
+    },
+    "infantilism": {
+        "desc": "",
+        "freq": 9
+    },
+    "experimentalism": {
+        "desc": "",
+        "freq": 10
+    },
+    "eurocentrism": {
+        "desc": "",
+        "freq": 13
+    },
+    "endemism": {
+        "desc": "",
+        "freq": 9
+    },
+    "dichroism": {
+        "desc": "",
+        "freq": 9
+    },
+    "deism": {
+        "desc": "",
+        "freq": 11
+    },
+    "cretinism": {
+        "desc": "",
+        "freq": 9
+    },
+    "catabolism": {
+        "desc": "",
+        "freq": 9
+    },
+    "brutalism": {
+        "desc": "",
+        "freq": 9
+    },
+    "atavism": {
+        "desc": "",
+        "freq": 9
+    },
+    "anglo-catholicism": {
+        "desc": "",
+        "freq": 13
+    },
+    "tropism": {
+        "desc": "",
+        "freq": 8
+    },
+    "termism": {
+        "desc": "",
+        "freq": 8
+    },
+    "taylorism": {
+        "desc": "",
+        "freq": 18
+    },
+    "neo-fordism": {
+        "desc": "",
+        "freq": 14
+    },
+    "neo-fascism": {
+        "desc": "",
+        "freq": 11
+    },
+    "multipartyism": {
+        "desc": "",
+        "freq": 8
+    },
+    "millenarianism": {
+        "desc": "",
+        "freq": 8
+    },
+    "micro-organism": {
+        "desc": "",
+        "freq": 8
+    },
+    "lutheranism": {
+        "desc": "",
+        "freq": 10
+    },
+    "gigantism": {
+        "desc": "",
+        "freq": 8
+    },
+    "gaullism": {
+        "desc": "",
+        "freq": 10
+    },
+    "externalism": {
+        "desc": "",
+        "freq": 9
+    },
+    "exceptionalism": {
+        "desc": "",
+        "freq": 8
+    },
+    "egocentrism": {
+        "desc": "",
+        "freq": 9
+    },
+    "communalism": {
+        "desc": "",
+        "freq": 8
+    },
+    "arianism": {
+        "desc": "",
+        "freq": 8
+    },
+    "archaism": {
+        "desc": "",
+        "freq": 9
+    },
+    "zoroastrianism": {
+        "desc": "",
+        "freq": 16
+    },
+    "vitalism": {
+        "desc": "",
+        "freq": 7
+    },
+    "unrealism": {
+        "desc": "",
+        "freq": 7
+    },
+    "ultramontanism": {
+        "desc": "",
+        "freq": 8
+    },
+    "snobbism": {
+        "desc": "",
+        "freq": 7
+    },
+    "skepticism": {
+        "desc": "",
+        "freq": 7
+    },
+    "ruffianism": {
+        "desc": "",
+        "freq": 7
+    },
+    "rigorism": {
+        "desc": "",
+        "freq": 7
+    },
+    "regalism": {
+        "desc": "",
+        "freq": 9
+    },
+    "purism": {
+        "desc": "",
+        "freq": 7
+    },
+    "photojournalism": {
+        "desc": "",
+        "freq": 8
+    },
+    "parliamentarianism": {
+        "desc": "",
+        "freq": 8
+    },
+    "over-optimism": {
+        "desc": "",
+        "freq": 7
+    },
+    "nomadism": {
+        "desc": "",
+        "freq": 8
+    },
+    "naturism": {
+        "desc": "",
+        "freq": 8
+    },
+    "mithraism": {
+        "desc": "",
+        "freq": 13
+    },
+    "mesmerism": {
+        "desc": "",
+        "freq": 8
+    },
+    "indeterminism": {
+        "desc": "",
+        "freq": 7
+    },
+    "hyperparathyroidism": {
+        "desc": "",
+        "freq": 7
+    },
+    "hegelianism": {
+        "desc": "",
+        "freq": 9
+    },
+    "freudianism": {
+        "desc": "",
+        "freq": 12
+    },
+    "europeanism": {
+        "desc": "",
+        "freq": 10
+    },
+    "emotivism": {
+        "desc": "",
+        "freq": 8
+    },
+    "diffusionism": {
+        "desc": "",
+        "freq": 7
+    },
+    "diachronism": {
+        "desc": "",
+        "freq": 9
+    },
+    "dataprism": {
+        "desc": "",
+        "freq": 8
+    },
+    "dandyism": {
+        "desc": "",
+        "freq": 7
+    },
+    "coalitionism": {
+        "desc": "",
+        "freq": 9
+    },
+    "clericalism": {
+        "desc": "",
+        "freq": 7
+    },
+    "charism": {
+        "desc": "",
+        "freq": 7
+    },
+    "catastrophism": {
+        "desc": "",
+        "freq": 8
+    },
+    "aurilism": {
+        "desc": "",
+        "freq": 7
+    },
+    "transnationalism": {
+        "desc": "",
+        "freq": 9
+    },
+    "teetotalism": {
+        "desc": "",
+        "freq": 13
+    },
+    "state-centrism": {
+        "desc": "",
+        "freq": 7
+    },
+    "sociologism": {
+        "desc": "",
+        "freq": 6
+    },
+    "ritualism": {
+        "desc": "",
+        "freq": 6
+    },
+    "quietism": {
+        "desc": "",
+        "freq": 6
+    },
+    "quakerism": {
+        "desc": "",
+        "freq": 11
+    },
+    "progressionism": {
+        "desc": "",
+        "freq": 6
+    },
+    "post-industrialism": {
+        "desc": "",
+        "freq": 9
+    },
+    "post-fordism": {
+        "desc": "",
+        "freq": 12
+    },
+    "peronism": {
+        "desc": "",
+        "freq": 6
+    },
+    "pantheism": {
+        "desc": "",
+        "freq": 8
+    },
+    "panslavism": {
+        "desc": "",
+        "freq": 8
+    },
+    "paisleyism": {
+        "desc": "",
+        "freq": 9
+    },
+    "onanism": {
+        "desc": "",
+        "freq": 6
+    },
+    "neuroticism": {
+        "desc": "",
+        "freq": 6
+    },
+    "monarchism": {
+        "desc": "",
+        "freq": 6
+    },
+    "mentalism": {
+        "desc": "",
+        "freq": 6
+    },
+    "institutionalism": {
+        "desc": "",
+        "freq": 7
+    },
+    "heathenism": {
+        "desc": "",
+        "freq": 6
+    },
+    "genericism": {
+        "desc": "",
+        "freq": 6
+    },
+    "familism": {
+        "desc": "",
+        "freq": 6
+    },
+    "eco-tourism": {
+        "desc": "",
+        "freq": 6
+    },
+    "departmentalism": {
+        "desc": "",
+        "freq": 7
+    },
+    "cronyism": {
+        "desc": "",
+        "freq": 6
+    },
+    "connectionism": {
+        "desc": "",
+        "freq": 6
+    },
+    "conceptualism": {
+        "desc": "",
+        "freq": 6
+    },
+    "cognitivism": {
+        "desc": "",
+        "freq": 6
+    },
+    "associationism": {
+        "desc": "",
+        "freq": 7
+    },
+    "arabism": {
+        "desc": "",
+        "freq": 7
+    },
+    "antinomianism": {
+        "desc": "",
+        "freq": 12
+    },
+    "anti-modernism": {
+        "desc": "",
+        "freq": 9
+    },
+    "anti-lesbianism": {
+        "desc": "",
+        "freq": 11
+    },
+    "anti-intellectualism": {
+        "desc": "",
+        "freq": 10
+    },
+    "anti-capitalism": {
+        "desc": "",
+        "freq": 10
+    },
+    "abstractionism": {
+        "desc": "",
+        "freq": 6
+    },
+    "abolitionism": {
+        "desc": "",
+        "freq": 6
+    },
+    "virgilianism": {
+        "desc": "",
+        "freq": 5
+    },
+    "victorianism": {
+        "desc": "",
+        "freq": 5
+    },
+    "unprofessionalism": {
+        "desc": "",
+        "freq": 5
+    },
+    "troilism": {
+        "desc": "",
+        "freq": 5
+    },
+    "tripartism": {
+        "desc": "",
+        "freq": 6
+    },
+    "trade-unionism": {
+        "desc": "",
+        "freq": 7
+    },
+    "synergism": {
+        "desc": "",
+        "freq": 5
+    },
+    "ruralism": {
+        "desc": "",
+        "freq": 5
+    },
+    "regulationism": {
+        "desc": "",
+        "freq": 5
+    },
+    "rastafarianism": {
+        "desc": "",
+        "freq": 9
+    },
+    "proselytism": {
+        "desc": "",
+        "freq": 5
+    },
+    "pro-zionism": {
+        "desc": "",
+        "freq": 7
+    },
+    "predestinarianism": {
+        "desc": "",
+        "freq": 5
+    },
+    "popularism": {
+        "desc": "",
+        "freq": 5
+    },
+    "pointillism": {
+        "desc": "",
+        "freq": 5
+    },
+    "phallocentrism": {
+        "desc": "",
+        "freq": 5
+    },
+    "palaeomagnetism": {
+        "desc": "",
+        "freq": 5
+    },
+    "organicism": {
+        "desc": "",
+        "freq": 5
+    },
+    "nondeterminism": {
+        "desc": "",
+        "freq": 5
+    },
+    "mongolism": {
+        "desc": "",
+        "freq": 5
+    },
+    "mercantilism": {
+        "desc": "",
+        "freq": 5
+    },
+    "medievalism": {
+        "desc": "",
+        "freq": 6
+    },
+    "libertinism": {
+        "desc": "",
+        "freq": 5
+    },
+    "lacanianism": {
+        "desc": "",
+        "freq": 6
+    },
+    "jainism": {
+        "desc": "",
+        "freq": 5
+    },
+    "invalidism": {
+        "desc": "",
+        "freq": 5
+    },
+    "informalism": {
+        "desc": "",
+        "freq": 5
+    },
+    "imagism": {
+        "desc": "",
+        "freq": 7
+    },
+    "hypersplenism": {
+        "desc": "",
+        "freq": 5
+    },
+    "hirsutism": {
+        "desc": "",
+        "freq": 5
+    },
+    "hermaphroditism": {
+        "desc": "",
+        "freq": 5
+    },
+    "guevarism": {
+        "desc": "",
+        "freq": 5
+    },
+    "giantism": {
+        "desc": "",
+        "freq": 5
+    },
+    "exclusivism": {
+        "desc": "",
+        "freq": 6
+    },
+    "eurocommunism": {
+        "desc": "",
+        "freq": 7
+    },
+    "entrepreneurialism": {
+        "desc": "",
+        "freq": 5
+    },
+    "dilettantism": {
+        "desc": "",
+        "freq": 5
+    },
+    "diatonicism": {
+        "desc": "",
+        "freq": 5
+    },
+    "congregationalism": {
+        "desc": "",
+        "freq": 13
+    },
+    "chimaerism": {
+        "desc": "",
+        "freq": 5
+    },
+    "biologism": {
+        "desc": "",
+        "freq": 5
+    },
+    "atlanticism": {
+        "desc": "",
+        "freq": 6
+    },
+    "aposematism": {
+        "desc": "",
+        "freq": 5
+    },
+    "antifeminism": {
+        "desc": "",
+        "freq": 6
+    },
+    "antidisestablishmentarianism": {
+        "desc": "",
+        "freq": 5
+    },
+    "anti-terrorism": {
+        "desc": "",
+        "freq": 8
+    },
+    "anti-imperialism": {
+        "desc": "",
+        "freq": 8
+    },
+    "anti-humanism": {
+        "desc": "",
+        "freq": 8
+    },
+    "anti-feminism": {
+        "desc": "",
+        "freq": 7
+    },
+    "anti-catholicism": {
+        "desc": "",
+        "freq": 9
+    },
+    "alpinism": {
+        "desc": "",
+        "freq": 5
+    },
+    "absurdism": {
+        "desc": "",
+        "freq": 5
+    },
+    "vulgarism": {
+        "desc": "",
+        "freq": 4
+    },
+    "ultranationalism": {
+        "desc": "",
+        "freq": 4
+    },
+    "titoism": {
+        "desc": "",
+        "freq": 5
+    },
+    "titism": {
+        "desc": "",
+        "freq": 4
+    },
+    "thromboembolism": {
+        "desc": "",
+        "freq": 4
+    },
+    "sufism": {
+        "desc": "",
+        "freq": 8
+    },
+    "spiritism": {
+        "desc": "",
+        "freq": 5
+    },
+    "speciesism": {
+        "desc": "",
+        "freq": 4
+    },
+    "solafidianism": {
+        "desc": "",
+        "freq": 4
+    },
+    "sectionalism": {
+        "desc": "",
+        "freq": 4
+    },
+    "secessionism": {
+        "desc": "",
+        "freq": 4
+    },
+    "royalism": {
+        "desc": "",
+        "freq": 4
+    },
+    "revanchism": {
+        "desc": "",
+        "freq": 4
+    },
+    "retreatism": {
+        "desc": "",
+        "freq": 4
+    },
+    "rachmanism": {
+        "desc": "",
+        "freq": 8
+    },
+    "pythagoreanism": {
+        "desc": "",
+        "freq": 5
+    },
+    "post-impressionism": {
+        "desc": "",
+        "freq": 8
+    },
+    "platonism": {
+        "desc": "",
+        "freq": 6
+    },
+    "pietism": {
+        "desc": "",
+        "freq": 8
+    },
+    "palladianism": {
+        "desc": "",
+        "freq": 5
+    },
+    "nonconformism": {
+        "desc": "",
+        "freq": 5
+    },
+    "non-dualism": {
+        "desc": "",
+        "freq": 5
+    },
+    "neo-nazism": {
+        "desc": "",
+        "freq": 8
+    },
+    "narco-terrorism": {
+        "desc": "",
+        "freq": 6
+    },
+    "mutism": {
+        "desc": "",
+        "freq": 4
+    },
+    "multi-culturalism": {
+        "desc": "",
+        "freq": 6
+    },
+    "misogynism": {
+        "desc": "",
+        "freq": 4
+    },
+    "mendelism": {
+        "desc": "",
+        "freq": 4
+    },
+    "marxist-leninism": {
+        "desc": "",
+        "freq": 5
+    },
+    "maoism": {
+        "desc": "",
+        "freq": 5
+    },
+    "majoritarianism": {
+        "desc": "",
+        "freq": 4
+    },
+    "leavisism": {
+        "desc": "",
+        "freq": 7
+    },
+    "khvarism": {
+        "desc": "",
+        "freq": 5
+    },
+    "judgmentalism": {
+        "desc": "",
+        "freq": 4
+    },
+    "jansenism": {
+        "desc": "",
+        "freq": 4
+    },
+    "geomagnetism": {
+        "desc": "",
+        "freq": 5
+    },
+    "fallibilism": {
+        "desc": "",
+        "freq": 6
+    },
+    "ecumenicalism": {
+        "desc": "",
+        "freq": 4
+    },
+    "disablism": {
+        "desc": "",
+        "freq": 4
+    },
+    "dadaism": {
+        "desc": "",
+        "freq": 4
+    },
+    "constructionism": {
+        "desc": "",
+        "freq": 4
+    },
+    "compartmentalism": {
+        "desc": "",
+        "freq": 4
+    },
+    "classism": {
+        "desc": "",
+        "freq": 4
+    },
+    "castroism": {
+        "desc": "",
+        "freq": 4
+    },
+    "caesarism": {
+        "desc": "",
+        "freq": 5
+    },
+    "butskellism": {
+        "desc": "",
+        "freq": 6
+    },
+    "bogomilism": {
+        "desc": "",
+        "freq": 4
+    },
+    "avant-gardism": {
+        "desc": "",
+        "freq": 5
+    },
+    "anti-perfectionism": {
+        "desc": "",
+        "freq": 5
+    },
+    "anti-parliamentarianism": {
+        "desc": "",
+        "freq": 5
+    },
+    "anti-fascism": {
+        "desc": "",
+        "freq": 6
+    },
+    "anti-colonialism": {
+        "desc": "",
+        "freq": 6
+    },
+    "alienism": {
+        "desc": "",
+        "freq": 7
+    },
+    "agism": {
+        "desc": "",
+        "freq": 4
+    },
+    "accidentalism": {
+        "desc": "",
+        "freq": 4
+    },
+    "vorticism": {
+        "desc": "",
+        "freq": 3
+    },
+    "vichyism": {
+        "desc": "",
+        "freq": 4
+    },
+    "vampirism": {
+        "desc": "",
+        "freq": 3
+    },
+    "ultra-leftism": {
+        "desc": "",
+        "freq": 3
+    },
+    "transmutationism": {
+        "desc": "",
+        "freq": 3
+    },
+    "thomism": {
+        "desc": "",
+        "freq": 4
+    },
+    "televangelism": {
+        "desc": "",
+        "freq": 3
+    },
+    "taoism": {
+        "desc": "",
+        "freq": 6
+    },
+    "supernaturalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "shintoism": {
+        "desc": "",
+        "freq": 4
+    },
+    "semi-feudalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "schematism": {
+        "desc": "",
+        "freq": 3
+    },
+    "sacramentalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "quadrupedalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "pro-europeanism": {
+        "desc": "",
+        "freq": 3
+    },
+    "privatism": {
+        "desc": "",
+        "freq": 3
+    },
+    "prescriptivism": {
+        "desc": "",
+        "freq": 4
+    },
+    "post-thatcherism": {
+        "desc": "",
+        "freq": 3
+    },
+    "photorealism": {
+        "desc": "",
+        "freq": 4
+    },
+    "pelagianism": {
+        "desc": "",
+        "freq": 4
+    },
+    "parkinsonism": {
+        "desc": "",
+        "freq": 3
+    },
+    "paramilitarism": {
+        "desc": "",
+        "freq": 3
+    },
+    "paramagnetism": {
+        "desc": "",
+        "freq": 3
+    },
+    "panopticism": {
+        "desc": "",
+        "freq": 3
+    },
+    "pan-germanism": {
+        "desc": "",
+        "freq": 4
+    },
+    "ornamentalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "orangeism": {
+        "desc": "",
+        "freq": 3
+    },
+    "operationalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "neomorphism": {
+        "desc": "",
+        "freq": 3
+    },
+    "neo-marxism": {
+        "desc": "",
+        "freq": 3
+    },
+    "neo-liberalism": {
+        "desc": "",
+        "freq": 6
+    },
+    "neo-expressionism": {
+        "desc": "",
+        "freq": 3
+    },
+    "neo-evolutionism": {
+        "desc": "",
+        "freq": 5
+    },
+    "neo-darwinism": {
+        "desc": "",
+        "freq": 8
+    },
+    "neighbourhoodism": {
+        "desc": "",
+        "freq": 3
+    },
+    "mutualism": {
+        "desc": "",
+        "freq": 3
+    },
+    "multiracialism": {
+        "desc": "",
+        "freq": 4
+    },
+    "multi-unionism": {
+        "desc": "",
+        "freq": 4
+    },
+    "modalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "micawberism": {
+        "desc": "",
+        "freq": 3
+    },
+    "metamerism": {
+        "desc": "",
+        "freq": 3
+    },
+    "melanism": {
+        "desc": "",
+        "freq": 5
+    },
+    "maximalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "manualism": {
+        "desc": "",
+        "freq": 3
+    },
+    "manichaeism": {
+        "desc": "",
+        "freq": 4
+    },
+    "long-termism": {
+        "desc": "",
+        "freq": 3
+    },
+    "internalism": {
+        "desc": "",
+        "freq": 4
+    },
+    "incendiarism": {
+        "desc": "",
+        "freq": 3
+    },
+    "immobilism": {
+        "desc": "",
+        "freq": 3
+    },
+    "immediatism": {
+        "desc": "",
+        "freq": 3
+    },
+    "godwinism": {
+        "desc": "",
+        "freq": 3
+    },
+    "galvanism": {
+        "desc": "",
+        "freq": 3
+    },
+    "galenism": {
+        "desc": "",
+        "freq": 3
+    },
+    "euro-centrism": {
+        "desc": "",
+        "freq": 4
+    },
+    "erotism": {
+        "desc": "",
+        "freq": 3
+    },
+    "erastianism": {
+        "desc": "",
+        "freq": 3
+    },
+    "electro-magnetism": {
+        "desc": "",
+        "freq": 4
+    },
+    "divisionism": {
+        "desc": "",
+        "freq": 3
+    },
+    "developmentalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "denominationalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "deconstructionism": {
+        "desc": "",
+        "freq": 4
+    },
+    "czarism": {
+        "desc": "",
+        "freq": 3
+    },
+    "culturalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "credentialism": {
+        "desc": "",
+        "freq": 3
+    },
+    "copernicanism": {
+        "desc": "",
+        "freq": 3
+    },
+    "communitarianism": {
+        "desc": "",
+        "freq": 3
+    },
+    "coherentism": {
+        "desc": "",
+        "freq": 3
+    },
+    "cobdenism": {
+        "desc": "",
+        "freq": 3
+    },
+    "christocentrism": {
+        "desc": "",
+        "freq": 3
+    },
+    "casualism": {
+        "desc": "",
+        "freq": 3
+    },
+    "believism": {
+        "desc": "",
+        "freq": 3
+    },
+    "bagshawism": {
+        "desc": "",
+        "freq": 3
+    },
+    "assimilationism": {
+        "desc": "",
+        "freq": 3
+    },
+    "anti-unionism": {
+        "desc": "",
+        "freq": 3
+    },
+    "anti-statism": {
+        "desc": "",
+        "freq": 4
+    },
+    "anti-sexism": {
+        "desc": "",
+        "freq": 5
+    },
+    "anti-marxism": {
+        "desc": "",
+        "freq": 5
+    },
+    "agrarianism": {
+        "desc": "",
+        "freq": 3
+    },
+    "afrocentrism": {
+        "desc": "",
+        "freq": 5
+    },
+    "adventism": {
+        "desc": "",
+        "freq": 3
+    },
+    "volunteerism": {
+        "desc": "",
+        "freq": 2
+    },
+    "ultra-patriotism": {
+        "desc": "",
+        "freq": 2
+    },
+    "trinitarianism": {
+        "desc": "",
+        "freq": 3
+    },
+    "trilateralism": {
+        "desc": "",
+        "freq": 3
+    },
+    "tribadism": {
+        "desc": "",
+        "freq": 2
+    },
+    "tectonism": {
+        "desc": "",
+        "freq": 2
+    },
+    "tachymetabolism": {
+        "desc": "",
+        "freq": 3
+    },
+    "tachism": {
+        "desc": "",
+        "freq": 3
+    },
+    "survivalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "superorganism": {
+        "desc": "",
+        "freq": 2
+    },
+    "splittism": {
+        "desc": "",
+        "freq": 2
+    },
+    "soul-cialism": {
+        "desc": "",
+        "freq": 2
+    },
+    "somnambulism": {
+        "desc": "",
+        "freq": 2
+    },
+    "socialist-feminism": {
+        "desc": "",
+        "freq": 2
+    },
+    "slavophilism": {
+        "desc": "",
+        "freq": 2
+    },
+    "shiism": {
+        "desc": "",
+        "freq": 3
+    },
+    "shamateurism": {
+        "desc": "",
+        "freq": 2
+    },
+    "sentimentalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "semitism": {
+        "desc": "",
+        "freq": 2
+    },
+    "selectionism": {
+        "desc": "",
+        "freq": 2
+    },
+    "saivism": {
+        "desc": "",
+        "freq": 2
+    },
+    "residualism": {
+        "desc": "",
+        "freq": 2
+    },
+    "reaganism": {
+        "desc": "",
+        "freq": 5
+    },
+    "pyrrhonism": {
+        "desc": "",
+        "freq": 3
+    },
+    "pugilism": {
+        "desc": "",
+        "freq": 2
+    },
+    "psychoticism": {
+        "desc": "",
+        "freq": 2
+    },
+    "pseudointellectualism": {
+        "desc": "",
+        "freq": 2
+    },
+    "prussianism": {
+        "desc": "",
+        "freq": 3
+    },
+    "proto-fascism": {
+        "desc": "",
+        "freq": 2
+    },
+    "post-imperialism": {
+        "desc": "",
+        "freq": 2
+    },
+    "pleiotropism": {
+        "desc": "",
+        "freq": 2
+    },
+    "physicalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "photoperiodism": {
+        "desc": "",
+        "freq": 2
+    },
+    "philhellenism": {
+        "desc": "",
+        "freq": 2
+    },
+    "personalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "pedestrianism": {
+        "desc": "",
+        "freq": 3
+    },
+    "parajournalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "non-interventionism": {
+        "desc": "",
+        "freq": 3
+    },
+    "non-determinism": {
+        "desc": "",
+        "freq": 2
+    },
+    "neocolonialism": {
+        "desc": "",
+        "freq": 2
+    },
+    "neo-romanticism": {
+        "desc": "",
+        "freq": 3
+    },
+    "neo-malthusianism": {
+        "desc": "",
+        "freq": 5
+    },
+    "neo-lamarckism": {
+        "desc": "",
+        "freq": 3
+    },
+    "neo-imperialism": {
+        "desc": "",
+        "freq": 3
+    },
+    "neo-elitism": {
+        "desc": "",
+        "freq": 3
+    },
+    "neo-conceptualism": {
+        "desc": "",
+        "freq": 2
+    },
+    "nativism": {
+        "desc": "",
+        "freq": 2
+    },
+    "mycoparasitism": {
+        "desc": "",
+        "freq": 2
+    },
+    "municipalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "multi-partyism": {
+        "desc": "",
+        "freq": 2
+    },
+    "multi-lingualism": {
+        "desc": "",
+        "freq": 2
+    },
+    "multi-culturism": {
+        "desc": "",
+        "freq": 2
+    },
+    "mortalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "mormonism": {
+        "desc": "",
+        "freq": 3
+    },
+    "montanism": {
+        "desc": "",
+        "freq": 3
+    },
+    "miserablism": {
+        "desc": "",
+        "freq": 2
+    },
+    "miserabilism": {
+        "desc": "",
+        "freq": 2
+    },
+    "miltonism": {
+        "desc": "",
+        "freq": 2
+    },
+    "metacriticism": {
+        "desc": "",
+        "freq": 2
+    },
+    "messianism": {
+        "desc": "",
+        "freq": 2
+    },
+    "mediumism": {
+        "desc": "",
+        "freq": 2
+    },
+    "medism": {
+        "desc": "",
+        "freq": 2
+    },
+    "me-firstism": {
+        "desc": "",
+        "freq": 2
+    },
+    "matabolism": {
+        "desc": "",
+        "freq": 2
+    },
+    "masculinism": {
+        "desc": "",
+        "freq": 2
+    },
+    "manichaeanism": {
+        "desc": "",
+        "freq": 3
+    },
+    "malthusianism": {
+        "desc": "",
+        "freq": 2
+    },
+    "machiavellianism": {
+        "desc": "",
+        "freq": 2
+    },
+    "maccarthyism": {
+        "desc": "",
+        "freq": 2
+    },
+    "lysenkoism": {
+        "desc": "",
+        "freq": 3
+    },
+    "ludism": {
+        "desc": "",
+        "freq": 2
+    },
+    "liquidationism": {
+        "desc": "",
+        "freq": 2
+    },
+    "leucism": {
+        "desc": "",
+        "freq": 3
+    },
+    "legal-constitutionalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "left-republicanism": {
+        "desc": "",
+        "freq": 2
+    },
+    "latitudinarianism": {
+        "desc": "",
+        "freq": 3
+    },
+    "latinism": {
+        "desc": "",
+        "freq": 2
+    },
+    "laser-prism": {
+        "desc": "",
+        "freq": 2
+    },
+    "lamaism": {
+        "desc": "",
+        "freq": 2
+    },
+    "laconicism": {
+        "desc": "",
+        "freq": 2
+    },
+    "kinnockism": {
+        "desc": "",
+        "freq": 2
+    },
+    "josephinism": {
+        "desc": "",
+        "freq": 2
+    },
+    "italianism": {
+        "desc": "",
+        "freq": 2
+    },
+    "intuitionism": {
+        "desc": "",
+        "freq": 3
+    },
+    "insiderism": {
+        "desc": "",
+        "freq": 2
+    },
+    "injournalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "inhumanism": {
+        "desc": "",
+        "freq": 2
+    },
+    "infallibilism": {
+        "desc": "",
+        "freq": 2
+    },
+    "inegalitarianism": {
+        "desc": "",
+        "freq": 2
+    },
+    "impersonalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "illiberalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "hypopituitarism": {
+        "desc": "",
+        "freq": 2
+    },
+    "hyperthyroidism": {
+        "desc": "",
+        "freq": 2
+    },
+    "hyperpluralism": {
+        "desc": "",
+        "freq": 2
+    },
+    "hylemorphism": {
+        "desc": "",
+        "freq": 2
+    },
+    "hygienism": {
+        "desc": "",
+        "freq": 2
+    },
+    "homoeroticism": {
+        "desc": "",
+        "freq": 2
+    },
+    "hitlerism": {
+        "desc": "",
+        "freq": 4
+    },
+    "heurism": {
+        "desc": "",
+        "freq": 2
+    },
+    "hegemonism": {
+        "desc": "",
+        "freq": 2
+    },
+    "globalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "genteelism": {
+        "desc": "",
+        "freq": 2
+    },
+    "gallicanism": {
+        "desc": "",
+        "freq": 2
+    },
+    "foodie-ism": {
+        "desc": "",
+        "freq": 3
+    },
+    "ferromagnetism": {
+        "desc": "",
+        "freq": 2
+    },
+    "falangism": {
+        "desc": "",
+        "freq": 2
+    },
+    "facadism": {
+        "desc": "",
+        "freq": 2
+    },
+    "euro-nationlism": {
+        "desc": "",
+        "freq": 2
+    },
+    "euro-nationalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "euro-federalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "euro-communism": {
+        "desc": "",
+        "freq": 4
+    },
+    "esotericism": {
+        "desc": "",
+        "freq": 2
+    },
+    "erraticism": {
+        "desc": "",
+        "freq": 2
+    },
+    "epicurism": {
+        "desc": "",
+        "freq": 2
+    },
+    "entryism": {
+        "desc": "",
+        "freq": 3
+    },
+    "englandism": {
+        "desc": "",
+        "freq": 3
+    },
+    "endism": {
+        "desc": "",
+        "freq": 2
+    },
+    "ecumenicism": {
+        "desc": "",
+        "freq": 2
+    },
+    "ecotourism": {
+        "desc": "",
+        "freq": 3
+    },
+    "dynasticism": {
+        "desc": "",
+        "freq": 4
+    },
+    "donatism": {
+        "desc": "",
+        "freq": 2
+    },
+    "distributism": {
+        "desc": "",
+        "freq": 2
+    },
+    "dialogism": {
+        "desc": "",
+        "freq": 3
+    },
+    "defencism": {
+        "desc": "",
+        "freq": 2
+    },
+    "cultism": {
+        "desc": "",
+        "freq": 2
+    },
+    "critisism": {
+        "desc": "",
+        "freq": 2
+    },
+    "contractualism": {
+        "desc": "",
+        "freq": 2
+    },
+    "consociationalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "conservativism": {
+        "desc": "",
+        "freq": 3
+    },
+    "conservationism": {
+        "desc": "",
+        "freq": 2
+    },
+    "consequentialism": {
+        "desc": "",
+        "freq": 2
+    },
+    "confessionalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "charlatanism": {
+        "desc": "",
+        "freq": 2
+    },
+    "ceremonialism": {
+        "desc": "",
+        "freq": 2
+    },
+    "centrism": {
+        "desc": "",
+        "freq": 2
+    },
+    "cartesianism": {
+        "desc": "",
+        "freq": 3
+    },
+    "auto-eroticism": {
+        "desc": "",
+        "freq": 2
+    },
+    "authenticism": {
+        "desc": "",
+        "freq": 2
+    },
+    "auteurism": {
+        "desc": "",
+        "freq": 2
+    },
+    "atonalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "antipapalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "anti-zionism": {
+        "desc": "",
+        "freq": 3
+    },
+    "anti-vandalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "anti-socialism": {
+        "desc": "",
+        "freq": 2
+    },
+    "anti-royalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "anti-papalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "anti-nazism": {
+        "desc": "",
+        "freq": 2
+    },
+    "anti-militarism": {
+        "desc": "",
+        "freq": 2
+    },
+    "anti-liberalism": {
+        "desc": "",
+        "freq": 3
+    },
+    "anti-industrialism": {
+        "desc": "",
+        "freq": 3
+    },
+    "anti-europeanism": {
+        "desc": "",
+        "freq": 3
+    },
+    "anti-elitism": {
+        "desc": "",
+        "freq": 2
+    },
+    "anti-correctionalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "anti-collectivism": {
+        "desc": "",
+        "freq": 2
+    },
+    "anti-authoritarianism": {
+        "desc": "",
+        "freq": 3
+    },
+    "anti-antiracism": {
+        "desc": "",
+        "freq": 2
+    },
+    "anthropocentrism": {
+        "desc": "",
+        "freq": 2
+    },
+    "animalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "androcentrism": {
+        "desc": "",
+        "freq": 2
+    },
+    "alism": {
+        "desc": "",
+        "freq": 2
+    },
+    "agonism": {
+        "desc": "",
+        "freq": 2
+    },
+    "adversarialism": {
+        "desc": "",
+        "freq": 2
+    },
+    "actualism": {
+        "desc": "",
+        "freq": 2
+    },
+    "zionism-is-racism": {
+        "desc": "",
+        "freq": 1
+    },
+    "zhdanovism": {
+        "desc": "",
+        "freq": 1
+    },
+    "zen-buddhism": {
+        "desc": "",
+        "freq": 1
+    },
+    "xanthism": {
+        "desc": "",
+        "freq": 2
+    },
+    "worldism": {
+        "desc": "",
+        "freq": 1
+    },
+    "workerism": {
+        "desc": "",
+        "freq": 1
+    },
+    "willie-ism": {
+        "desc": "",
+        "freq": 1
+    },
+    "wilkoism": {
+        "desc": "",
+        "freq": 1
+    },
+    "whiggism": {
+        "desc": "",
+        "freq": 1
+    },
+    "westernism": {
+        "desc": "",
+        "freq": 1
+    },
+    "wesleyanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "warlordism": {
+        "desc": "",
+        "freq": 1
+    },
+    "vulcanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "vortism": {
+        "desc": "",
+        "freq": 1
+    },
+    "voodism": {
+        "desc": "",
+        "freq": 1
+    },
+    "voltaireanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "vocalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "vigilantism": {
+        "desc": "",
+        "freq": 1
+    },
+    "victimism": {
+        "desc": "",
+        "freq": 1
+    },
+    "veterinarianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "verbalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "venturism": {
+        "desc": "",
+        "freq": 1
+    },
+    "velokovskianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "velikovskianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "veganism": {
+        "desc": "",
+        "freq": 1
+    },
+    "vedantism": {
+        "desc": "",
+        "freq": 1
+    },
+    "variationism": {
+        "desc": "",
+        "freq": 1
+    },
+    "vanguardism": {
+        "desc": "",
+        "freq": 1
+    },
+    "valentinism": {
+        "desc": "",
+        "freq": 1
+    },
+    "vaisnavism": {
+        "desc": "",
+        "freq": 1
+    },
+    "vaishnavism": {
+        "desc": "",
+        "freq": 1
+    },
+    "unsectarianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "under-consumptionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "unamericanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "un-americanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "ultra-socialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "ultra-nationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "triumpalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "tritheism": {
+        "desc": "",
+        "freq": 1
+    },
+    "transcendentalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "trans-isomerism": {
+        "desc": "",
+        "freq": 1
+    },
+    "trainspotterism": {
+        "desc": "",
+        "freq": 1
+    },
+    "tractarianism": {
+        "desc": "",
+        "freq": 2
+    },
+    "tory-ism": {
+        "desc": "",
+        "freq": 1
+    },
+    "tone-symbolism": {
+        "desc": "",
+        "freq": 1
+    },
+    "this-ism": {
+        "desc": "",
+        "freq": 1
+    },
+    "third-worldism": {
+        "desc": "",
+        "freq": 1
+    },
+    "thespianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "theoreticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "theomonoism": {
+        "desc": "",
+        "freq": 1
+    },
+    "thatherism": {
+        "desc": "",
+        "freq": 1
+    },
+    "that-ism": {
+        "desc": "",
+        "freq": 1
+    },
+    "textualism": {
+        "desc": "",
+        "freq": 1
+    },
+    "ted-buddhism": {
+        "desc": "",
+        "freq": 1
+    },
+    "technologism": {
+        "desc": "",
+        "freq": 1
+    },
+    "technologico-benthamism": {
+        "desc": "",
+        "freq": 1
+    },
+    "techno-brutalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "tantrism": {
+        "desc": "",
+        "freq": 1
+    },
+    "taking-workaholism": {
+        "desc": "",
+        "freq": 1
+    },
+    "take-it-or-leave-itism": {
+        "desc": "",
+        "freq": 1
+    },
+    "tailism": {
+        "desc": "",
+        "freq": 1
+    },
+    "sylvopastoralism": {
+        "desc": "",
+        "freq": 1
+    },
+    "swivel-mechanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "swedenborgianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "super-patriotism": {
+        "desc": "",
+        "freq": 1
+    },
+    "super-friedmanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "super-determinism": {
+        "desc": "",
+        "freq": 1
+    },
+    "sunnism": {
+        "desc": "",
+        "freq": 1
+    },
+    "suffragism": {
+        "desc": "",
+        "freq": 1
+    },
+    "suffragettism": {
+        "desc": "",
+        "freq": 1
+    },
+    "suburbanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "stylism": {
+        "desc": "",
+        "freq": 1
+    },
+    "structural-functionalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "stoutism": {
+        "desc": "",
+        "freq": 1
+    },
+    "stigmatism": {
+        "desc": "",
+        "freq": 1
+    },
+    "stereoisomerism": {
+        "desc": "",
+        "freq": 1
+    },
+    "stereo-isomerism": {
+        "desc": "",
+        "freq": 1
+    },
+    "statism-collectivism": {
+        "desc": "",
+        "freq": 1
+    },
+    "statecentrism": {
+        "desc": "",
+        "freq": 1
+    },
+    "stageism": {
+        "desc": "",
+        "freq": 1
+    },
+    "spring-mechanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "spot-the-sexism": {
+        "desc": "",
+        "freq": 1
+    },
+    "spoonerism": {
+        "desc": "",
+        "freq": 1
+    },
+    "sphericism": {
+        "desc": "",
+        "freq": 1
+    },
+    "spencerism": {
+        "desc": "",
+        "freq": 1
+    },
+    "specieism": {
+        "desc": "",
+        "freq": 1
+    },
+    "spartanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "sovietism": {
+        "desc": "",
+        "freq": 1
+    },
+    "sound-symbolism": {
+        "desc": "",
+        "freq": 2
+    },
+    "sophism": {
+        "desc": "",
+        "freq": 1
+    },
+    "socinianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "socialist-realism": {
+        "desc": "",
+        "freq": 1
+    },
+    "social-darwinism": {
+        "desc": "",
+        "freq": 1
+    },
+    "sizism": {
+        "desc": "",
+        "freq": 1
+    },
+    "sizeism": {
+        "desc": "",
+        "freq": 1
+    },
+    "sinead-ism": {
+        "desc": "",
+        "freq": 2
+    },
+    "simultanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "simultaneism": {
+        "desc": "",
+        "freq": 1
+    },
+    "simplicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "shopaholism": {
+        "desc": "",
+        "freq": 1
+    },
+    "shi-ism": {
+        "desc": "",
+        "freq": 1
+    },
+    "sephardism": {
+        "desc": "",
+        "freq": 1
+    },
+    "sensualism": {
+        "desc": "",
+        "freq": 1
+    },
+    "semi-specialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "semi-pluralism": {
+        "desc": "",
+        "freq": 1
+    },
+    "semi-nomadism": {
+        "desc": "",
+        "freq": 1
+    },
+    "self-referentialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "selectivism": {
+        "desc": "",
+        "freq": 1
+    },
+    "segregationism": {
+        "desc": "",
+        "freq": 1
+    },
+    "segmentalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "scroungerism": {
+        "desc": "",
+        "freq": 1
+    },
+    "sciolism": {
+        "desc": "",
+        "freq": 1
+    },
+    "schopenhauerianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "sartreanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "sapphism": {
+        "desc": "",
+        "freq": 1
+    },
+    "salvationism": {
+        "desc": "",
+        "freq": 2
+    },
+    "saltationism": {
+        "desc": "",
+        "freq": 1
+    },
+    "salingerism": {
+        "desc": "",
+        "freq": 1
+    },
+    "rynoikism": {
+        "desc": "",
+        "freq": 1
+    },
+    "russianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "rosicrucianism": {
+        "desc": "",
+        "freq": 2
+    },
+    "roomatism": {
+        "desc": "",
+        "freq": 1
+    },
+    "romanism": {
+        "desc": "",
+        "freq": 2
+    },
+    "rivalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "right-answerism": {
+        "desc": "",
+        "freq": 1
+    },
+    "ridleyism": {
+        "desc": "",
+        "freq": 1
+    },
+    "return-to-marxism": {
+        "desc": "",
+        "freq": 1
+    },
+    "representationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "religious-nationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "reism": {
+        "desc": "",
+        "freq": 1
+    },
+    "regurgitate-arianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "reconstructionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "reactionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "rayonism": {
+        "desc": "",
+        "freq": 1
+    },
+    "rascism": {
+        "desc": "",
+        "freq": 1
+    },
+    "rabbism": {
+        "desc": "",
+        "freq": 1
+    },
+    "rabbinism": {
+        "desc": "",
+        "freq": 1
+    },
+    "quasi-reductionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "quasi-philanthropism": {
+        "desc": "",
+        "freq": 1
+    },
+    "quasi-nationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "quasi-imperialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "qabalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "puseyism": {
+        "desc": "",
+        "freq": 2
+    },
+    "pump-mechanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pseudomysticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pseudomosaicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pseudohermaphroditism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pseudoelizabethanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pseudo-realism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pseudo-modernism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pseudo-masochism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pseudo-individualism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pseudo-egalitarianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pseudo-archaism": {
+        "desc": "",
+        "freq": 1
+    },
+    "provisionalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "proto-modernism": {
+        "desc": "",
+        "freq": 1
+    },
+    "proto-minimalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pronatalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "proletarianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "prognathism": {
+        "desc": "",
+        "freq": 1
+    },
+    "proceduralism": {
+        "desc": "",
+        "freq": 1
+    },
+    "probabilism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pro-westernism": {
+        "desc": "",
+        "freq": 1
+    },
+    "priapism": {
+        "desc": "",
+        "freq": 2
+    },
+    "presidentialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "premillennialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "preindustrialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "preformationism": {
+        "desc": "",
+        "freq": 1
+    },
+    "precisionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pre-tourism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pre-raphaelitism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pre-industrialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pre-evangelism": {
+        "desc": "",
+        "freq": 1
+    },
+    "prago-centrism": {
+        "desc": "",
+        "freq": 1
+    },
+    "postfeminism": {
+        "desc": "",
+        "freq": 1
+    },
+    "post-positivism": {
+        "desc": "",
+        "freq": 1
+    },
+    "post-newtonianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "post-monetarism": {
+        "desc": "",
+        "freq": 1
+    },
+    "post-modalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "post-marxism": {
+        "desc": "",
+        "freq": 1
+    },
+    "post-feminism": {
+        "desc": "",
+        "freq": 2
+    },
+    "post-communism": {
+        "desc": "",
+        "freq": 1
+    },
+    "post-colonialism": {
+        "desc": "",
+        "freq": 2
+    },
+    "polemicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "podoeroticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "plutonism": {
+        "desc": "",
+        "freq": 1
+    },
+    "plebiscitarianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "phototropism": {
+        "desc": "",
+        "freq": 1
+    },
+    "photo-realism": {
+        "desc": "",
+        "freq": 2
+    },
+    "phonocentrism": {
+        "desc": "",
+        "freq": 1
+    },
+    "phonocentricism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pholmorphism": {
+        "desc": "",
+        "freq": 1
+    },
+    "philo-semitism": {
+        "desc": "",
+        "freq": 1
+    },
+    "phenomena-hypnotism": {
+        "desc": "",
+        "freq": 1
+    },
+    "phanaticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "petalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "perversions-voyeurism": {
+        "desc": "",
+        "freq": 1
+    },
+    "perspectivism": {
+        "desc": "",
+        "freq": 1
+    },
+    "perspectivalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "peripheralism": {
+        "desc": "",
+        "freq": 1
+    },
+    "percentism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pentecostalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pelmanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pattenism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pathomechanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "parliamentarism": {
+        "desc": "",
+        "freq": 1
+    },
+    "panteutonism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pansyism": {
+        "desc": "",
+        "freq": 1
+    },
+    "panpsychism": {
+        "desc": "",
+        "freq": 1
+    },
+    "panlogism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pan-slavism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pan-protestantism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pan-nationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pan-europeanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pan-arabism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pan-africanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "pacificism": {
+        "desc": "",
+        "freq": 1
+    },
+    "overconsumptionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "over-liberalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "over-criticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "over-altruism": {
+        "desc": "",
+        "freq": 1
+    },
+    "orthomorphism": {
+        "desc": "",
+        "freq": 1
+    },
+    "oral-onlyism": {
+        "desc": "",
+        "freq": 1
+    },
+    "oppositionalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "one-partyism": {
+        "desc": "",
+        "freq": 1
+    },
+    "olympianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "old-bufferism": {
+        "desc": "",
+        "freq": 1
+    },
+    "officialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "occasionalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "objectism": {
+        "desc": "",
+        "freq": 1
+    },
+    "nudism": {
+        "desc": "",
+        "freq": 1
+    },
+    "northism": {
+        "desc": "",
+        "freq": 1
+    },
+    "normalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "nonreconstructionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "nonjurism": {
+        "desc": "",
+        "freq": 1
+    },
+    "non-sexism": {
+        "desc": "",
+        "freq": 1
+    },
+    "non-ritualism": {
+        "desc": "",
+        "freq": 1
+    },
+    "non-republicanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "non-polymorphism": {
+        "desc": "",
+        "freq": 1
+    },
+    "non-isomorphism": {
+        "desc": "",
+        "freq": 1
+    },
+    "non-conformism": {
+        "desc": "",
+        "freq": 1
+    },
+    "non-cognitivism": {
+        "desc": "",
+        "freq": 1
+    },
+    "nimbyism": {
+        "desc": "",
+        "freq": 1
+    },
+    "newtonianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neuterism": {
+        "desc": "",
+        "freq": 1
+    },
+    "nestorianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neorealism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neopostdeconstructionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neoplatonism": {
+        "desc": "",
+        "freq": 2
+    },
+    "neoplasticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neonomianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neoliberalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neoelitism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neoconservatism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neocatastrophism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neo-zionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neo-thomism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neo-stalinism": {
+        "desc": "",
+        "freq": 2
+    },
+    "neo-socialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neo-pluralism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neo-platonism": {
+        "desc": "",
+        "freq": 2
+    },
+    "neo-plasticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neo-paganism": {
+        "desc": "",
+        "freq": 3
+    },
+    "neo-nationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neo-kantianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neo-hegelism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neo-fundamentalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neo-functionalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neo-dadaism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neo-confucianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neo-celticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "neo-bolshevism": {
+        "desc": "",
+        "freq": 1
+    },
+    "necro-sadism": {
+        "desc": "",
+        "freq": 1
+    },
+    "necessarianism": {
+        "desc": "",
+        "freq": 2
+    },
+    "naziism": {
+        "desc": "",
+        "freq": 1
+    },
+    "nazi-ism": {
+        "desc": "",
+        "freq": 1
+    },
+    "napoleonism": {
+        "desc": "",
+        "freq": 1
+    },
+    "mystical-marxism": {
+        "desc": "",
+        "freq": 1
+    },
+    "mystery-mechanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "mutalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "multinationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "moseism": {
+        "desc": "",
+        "freq": 1
+    },
+    "mosaicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "monophysitism": {
+        "desc": "",
+        "freq": 1
+    },
+    "monoculturalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "monochromaticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "mohammedanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "mobutism": {
+        "desc": "",
+        "freq": 1
+    },
+    "miniaturism": {
+        "desc": "",
+        "freq": 1
+    },
+    "mid-parallelism": {
+        "desc": "",
+        "freq": 1
+    },
+    "mid-classicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "microcorporatism": {
+        "desc": "",
+        "freq": 1
+    },
+    "micro-nationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "micro-fascism": {
+        "desc": "",
+        "freq": 1
+    },
+    "micro-corporatism": {
+        "desc": "",
+        "freq": 1
+    },
+    "metermarism": {
+        "desc": "",
+        "freq": 1
+    },
+    "menshevism": {
+        "desc": "",
+        "freq": 1
+    },
+    "meliorism": {
+        "desc": "",
+        "freq": 1
+    },
+    "meism": {
+        "desc": "",
+        "freq": 1
+    },
+    "megalithism": {
+        "desc": "",
+        "freq": 1
+    },
+    "medium-termism": {
+        "desc": "",
+        "freq": 1
+    },
+    "mcluhanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "mbitikontourism": {
+        "desc": "",
+        "freq": 1
+    },
+    "mass-tourism": {
+        "desc": "",
+        "freq": 1
+    },
+    "marxist-existentialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "marx-ism": {
+        "desc": "",
+        "freq": 1
+    },
+    "marhaenism": {
+        "desc": "",
+        "freq": 1
+    },
+    "marginalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "manchesterism": {
+        "desc": "",
+        "freq": 1
+    },
+    "malapropism": {
+        "desc": "",
+        "freq": 2
+    },
+    "mailerism": {
+        "desc": "",
+        "freq": 1
+    },
+    "magdalenism": {
+        "desc": "",
+        "freq": 1
+    },
+    "maenadism": {
+        "desc": "",
+        "freq": 1
+    },
+    "macro-connectionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "luxemburgism": {
+        "desc": "",
+        "freq": 2
+    },
+    "looksism": {
+        "desc": "",
+        "freq": 1
+    },
+    "londonism": {
+        "desc": "",
+        "freq": 1
+    },
+    "lnternationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "little-englandism": {
+        "desc": "",
+        "freq": 1
+    },
+    "linguisism": {
+        "desc": "",
+        "freq": 1
+    },
+    "lingoism": {
+        "desc": "",
+        "freq": 1
+    },
+    "lilliputianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "liberal-idealism": {
+        "desc": "",
+        "freq": 1
+    },
+    "leavism": {
+        "desc": "",
+        "freq": 1
+    },
+    "lawyerism": {
+        "desc": "",
+        "freq": 1
+    },
+    "laudianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "latrodectism": {
+        "desc": "",
+        "freq": 1
+    },
+    "late-romanticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "larrikinism": {
+        "desc": "",
+        "freq": 1
+    },
+    "lacanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "khrushchevism": {
+        "desc": "",
+        "freq": 1
+    },
+    "khalaftourism": {
+        "desc": "",
+        "freq": 1
+    },
+    "kantianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "kadarism": {
+        "desc": "",
+        "freq": 1
+    },
+    "kabbalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "jungianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "joachimism": {
+        "desc": "",
+        "freq": 1
+    },
+    "jism": {
+        "desc": "",
+        "freq": 1
+    },
+    "jesuitism": {
+        "desc": "",
+        "freq": 1
+    },
+    "japanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "islamism": {
+        "desc": "",
+        "freq": 1
+    },
+    "islamicism": {
+        "desc": "",
+        "freq": 2
+    },
+    "irredentism": {
+        "desc": "",
+        "freq": 1
+    },
+    "irrealism": {
+        "desc": "",
+        "freq": 1
+    },
+    "involuntarism": {
+        "desc": "",
+        "freq": 1
+    },
+    "interpretivism": {
+        "desc": "",
+        "freq": 1
+    },
+    "intergovernmentalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "interconnectialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "inter-governmentalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "intentionalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "integralism": {
+        "desc": "",
+        "freq": 1
+    },
+    "insurrectionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "inspirationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "inotropism": {
+        "desc": "",
+        "freq": 1
+    },
+    "inorganicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "influencialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "indigenism": {
+        "desc": "",
+        "freq": 1
+    },
+    "indifferentism": {
+        "desc": "",
+        "freq": 1
+    },
+    "indianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "inclusivism": {
+        "desc": "",
+        "freq": 1
+    },
+    "inaltruism": {
+        "desc": "",
+        "freq": 1
+    },
+    "impossibilism": {
+        "desc": "",
+        "freq": 1
+    },
+    "immoralism": {
+        "desc": "",
+        "freq": 1
+    },
+    "idiotism": {
+        "desc": "",
+        "freq": 1
+    },
+    "ideologism": {
+        "desc": "",
+        "freq": 1
+    },
+    "iconodulism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hypoparathyroidism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hypoaldosteronism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hypoadrenalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hyperrealism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hyperparasitism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hypernationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hypermetabolism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hyperinsulinism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hypercortisolism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hyperaldosteronism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hyper-organism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hyper-nationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hyper-calvinism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hungarianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "homomorphism": {
+        "desc": "",
+        "freq": 1
+    },
+    "homo-eroticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "holism-individualism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hoboism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hobbyism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hispanicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hipmotism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hermeticism": {
+        "desc": "",
+        "freq": 2
+    },
+    "hereditarianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "heliocentrism": {
+        "desc": "",
+        "freq": 1
+    },
+    "hebraism": {
+        "desc": "",
+        "freq": 2
+    },
+    "halltourism": {
+        "desc": "",
+        "freq": 1
+    },
+    "gynocentrism": {
+        "desc": "",
+        "freq": 1
+    },
+    "groupism": {
+        "desc": "",
+        "freq": 1
+    },
+    "greggism": {
+        "desc": "",
+        "freq": 1
+    },
+    "greenhamism": {
+        "desc": "",
+        "freq": 1
+    },
+    "gothicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "gorbachevism": {
+        "desc": "",
+        "freq": 2
+    },
+    "godfatherism": {
+        "desc": "",
+        "freq": 2
+    },
+    "giganticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "germanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "geocentrism": {
+        "desc": "",
+        "freq": 1
+    },
+    "gallicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "furudism": {
+        "desc": "",
+        "freq": 1
+    },
+    "free-marketism": {
+        "desc": "",
+        "freq": 1
+    },
+    "freakism": {
+        "desc": "",
+        "freq": 1
+    },
+    "food-fetishism": {
+        "desc": "",
+        "freq": 1
+    },
+    "folklore-ism": {
+        "desc": "",
+        "freq": 1
+    },
+    "flatcherism": {
+        "desc": "",
+        "freq": 1
+    },
+    "flag-nationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "filiopietism": {
+        "desc": "",
+        "freq": 1
+    },
+    "fideism": {
+        "desc": "",
+        "freq": 1
+    },
+    "fenianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "feminisism": {
+        "desc": "",
+        "freq": 1
+    },
+    "feel-goodism": {
+        "desc": "",
+        "freq": 1
+    },
+    "favoritism": {
+        "desc": "",
+        "freq": 1
+    },
+    "faddism": {
+        "desc": "",
+        "freq": 1
+    },
+    "factionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "facism": {
+        "desc": "",
+        "freq": 1
+    },
+    "exterminism": {
+        "desc": "",
+        "freq": 1
+    },
+    "expulsionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "expressivism": {
+        "desc": "",
+        "freq": 1
+    },
+    "exclusionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "evangelicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "euro-protectionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "euro-mechanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "euro-fanaticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "euro-dirigism": {
+        "desc": "",
+        "freq": 1
+    },
+    "euphuism": {
+        "desc": "",
+        "freq": 1
+    },
+    "euphemsism": {
+        "desc": "",
+        "freq": 1
+    },
+    "ethno-racism": {
+        "desc": "",
+        "freq": 1
+    },
+    "ethno-centricism": {
+        "desc": "",
+        "freq": 1
+    },
+    "erythrism": {
+        "desc": "",
+        "freq": 1
+    },
+    "equalitarianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "episcopalianism": {
+        "desc": "",
+        "freq": 3
+    },
+    "epiphenomenalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "epigrammaticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "epicureanism": {
+        "desc": "",
+        "freq": 2
+    },
+    "entrepreneurism": {
+        "desc": "",
+        "freq": 1
+    },
+    "entrepreneuralism": {
+        "desc": "",
+        "freq": 1
+    },
+    "englanderism": {
+        "desc": "",
+        "freq": 1
+    },
+    "emperorism": {
+        "desc": "",
+        "freq": 1
+    },
+    "emersonianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "eliabethanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "electoralism": {
+        "desc": "",
+        "freq": 1
+    },
+    "egocentricism": {
+        "desc": "",
+        "freq": 1
+    },
+    "egalitaranism": {
+        "desc": "",
+        "freq": 1
+    },
+    "effortitism": {
+        "desc": "",
+        "freq": 1
+    },
+    "effortism": {
+        "desc": "",
+        "freq": 1
+    },
+    "eco-vandalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "eco-terrorism": {
+        "desc": "",
+        "freq": 1
+    },
+    "ecclesiasticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "dysfunctionalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "dynamicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "dual-organism": {
+        "desc": "",
+        "freq": 1
+    },
+    "druidism": {
+        "desc": "",
+        "freq": 1
+    },
+    "dositejism": {
+        "desc": "",
+        "freq": 1
+    },
+    "donothingism": {
+        "desc": "",
+        "freq": 1
+    },
+    "dogmaticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "doctrinairism": {
+        "desc": "",
+        "freq": 1
+    },
+    "do-goodism": {
+        "desc": "",
+        "freq": 1
+    },
+    "disciplinarianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "disabledism": {
+        "desc": "",
+        "freq": 1
+    },
+    "dirtisisism": {
+        "desc": "",
+        "freq": 1
+    },
+    "dirigism": {
+        "desc": "",
+        "freq": 1
+    },
+    "dirigisism": {
+        "desc": "",
+        "freq": 1
+    },
+    "die-hardism": {
+        "desc": "",
+        "freq": 1
+    },
+    "didactism": {
+        "desc": "",
+        "freq": 1
+    },
+    "dichromatism": {
+        "desc": "",
+        "freq": 1
+    },
+    "diapirism": {
+        "desc": "",
+        "freq": 2
+    },
+    "diamagnetism": {
+        "desc": "",
+        "freq": 1
+    },
+    "dialectalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "deviationism": {
+        "desc": "",
+        "freq": 1
+    },
+    "descriptivism": {
+        "desc": "",
+        "freq": 1
+    },
+    "demonism": {
+        "desc": "",
+        "freq": 1
+    },
+    "delorsism": {
+        "desc": "",
+        "freq": 1
+    },
+    "definitionalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "deductionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "deconstructivism": {
+        "desc": "",
+        "freq": 1
+    },
+    "decentralism": {
+        "desc": "",
+        "freq": 1
+    },
+    "cuckooism": {
+        "desc": "",
+        "freq": 1
+    },
+    "crypto-cartesianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "croneyism": {
+        "desc": "",
+        "freq": 1
+    },
+    "croceanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "critism": {
+        "desc": "",
+        "freq": 1
+    },
+    "critiism": {
+        "desc": "",
+        "freq": 1
+    },
+    "counterterrorism": {
+        "desc": "",
+        "freq": 1
+    },
+    "counterinductivism": {
+        "desc": "",
+        "freq": 1
+    },
+    "counter-protectionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "counter-modernism": {
+        "desc": "",
+        "freq": 1
+    },
+    "counter-communism": {
+        "desc": "",
+        "freq": 1
+    },
+    "costumbrism": {
+        "desc": "",
+        "freq": 1
+    },
+    "cornucopianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "copyism": {
+        "desc": "",
+        "freq": 1
+    },
+    "coporatism": {
+        "desc": "",
+        "freq": 1
+    },
+    "cookism": {
+        "desc": "",
+        "freq": 1
+    },
+    "contrapuntalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "contortionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "contextualism": {
+        "desc": "",
+        "freq": 1
+    },
+    "consumism": {
+        "desc": "",
+        "freq": 1
+    },
+    "confusionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "confucionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "confrontationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "conciliarism": {
+        "desc": "",
+        "freq": 1
+    },
+    "communo-socialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "commonwealthism": {
+        "desc": "",
+        "freq": 1
+    },
+    "commodity-fetishism": {
+        "desc": "",
+        "freq": 2
+    },
+    "commensalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "cometabolism": {
+        "desc": "",
+        "freq": 1
+    },
+    "combat-cannibalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "colon-ialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "collaborationism": {
+        "desc": "",
+        "freq": 1
+    },
+    "colbertism": {
+        "desc": "",
+        "freq": 1
+    },
+    "cockneyism": {
+        "desc": "",
+        "freq": 1
+    },
+    "class-centrism": {
+        "desc": "",
+        "freq": 1
+    },
+    "cisalpinism": {
+        "desc": "",
+        "freq": 1
+    },
+    "church-of-englandism": {
+        "desc": "",
+        "freq": 1
+    },
+    "christianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "chomskyism": {
+        "desc": "",
+        "freq": 1
+    },
+    "chavinism": {
+        "desc": "",
+        "freq": 1
+    },
+    "chameleonism": {
+        "desc": "",
+        "freq": 1
+    },
+    "cerebrism": {
+        "desc": "",
+        "freq": 1
+    },
+    "cerebralism": {
+        "desc": "",
+        "freq": 1
+    },
+    "centreism": {
+        "desc": "",
+        "freq": 1
+    },
+    "catholism": {
+        "desc": "",
+        "freq": 1
+    },
+    "cathechism": {
+        "desc": "",
+        "freq": 1
+    },
+    "catharism": {
+        "desc": "",
+        "freq": 1
+    },
+    "catalanism": {
+        "desc": "",
+        "freq": 2
+    },
+    "capitialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "caodaism": {
+        "desc": "",
+        "freq": 1
+    },
+    "caesaropapism": {
+        "desc": "",
+        "freq": 2
+    },
+    "cabalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "buttyism": {
+        "desc": "",
+        "freq": 1
+    },
+    "butism": {
+        "desc": "",
+        "freq": 1
+    },
+    "burnettodesmondism": {
+        "desc": "",
+        "freq": 1
+    },
+    "braggartism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bradyseism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bradymetabolism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bolsho-bonapartism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bocodonism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bloke-ism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bipolarism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bioregionalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "binarism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bimetallism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bidialectalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bicameralism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bi-dialectalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bhuddism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bevanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "berkleyanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "benthamism": {
+        "desc": "",
+        "freq": 1
+    },
+    "behavourism": {
+        "desc": "",
+        "freq": 1
+    },
+    "behaviorism": {
+        "desc": "",
+        "freq": 1
+    },
+    "baulkism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bauerism": {
+        "desc": "",
+        "freq": 1
+    },
+    "barbarianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bangorism": {
+        "desc": "",
+        "freq": 1
+    },
+    "bangorianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "avant-guardism": {
+        "desc": "",
+        "freq": 1
+    },
+    "autotelism": {
+        "desc": "",
+        "freq": 1
+    },
+    "automorphism": {
+        "desc": "",
+        "freq": 1
+    },
+    "autoeroticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "auto-iconism": {
+        "desc": "",
+        "freq": 1
+    },
+    "austinianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "aurlism": {
+        "desc": "",
+        "freq": 1
+    },
+    "atenism": {
+        "desc": "",
+        "freq": 1
+    },
+    "ascetism": {
+        "desc": "",
+        "freq": 1
+    },
+    "aryanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "art-criticism": {
+        "desc": "",
+        "freq": 2
+    },
+    "aristotelianism": {
+        "desc": "",
+        "freq": 2
+    },
+    "archaicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "arabo-islamism": {
+        "desc": "",
+        "freq": 1
+    },
+    "apoliticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "apartheid-capitalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "antisocialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "antidisenstablishmentarialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anticommunism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anticlassicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anticatholicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-vocationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-urbanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-traditionalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-tourism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-thatcherism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-suburbanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-structuralism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-sovietism": {
+        "desc": "",
+        "freq": 2
+    },
+    "anti-romanticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-rockism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-relativism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-rationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-puritanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-positivism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-polonism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-pluralism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-philistinism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-pharisaism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-partitionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-naturalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-nationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-monopolism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-monarchism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-materialism": {
+        "desc": "",
+        "freq": 2
+    },
+    "anti-judaism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-jacobinism": {
+        "desc": "",
+        "freq": 2
+    },
+    "anti-individualism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-illusionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-hitlerism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-hegemonism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-germanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-francoism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-formalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-foreignism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-federalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "anti-essentialism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-environmentalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-egalitarianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-darwinism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-culturalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-conservatism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-bureaucratism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-aristotelianism": {
+        "desc": "",
+        "freq": 2
+    },
+    "anti-arabism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-academicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anti-abortionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anthropism": {
+        "desc": "",
+        "freq": 1
+    },
+    "animal-metabolism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anglocentrism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anglo-saxonism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anglicism": {
+        "desc": "",
+        "freq": 1
+    },
+    "angellism": {
+        "desc": "",
+        "freq": 1
+    },
+    "angelism": {
+        "desc": "",
+        "freq": 1
+    },
+    "aneuyrism": {
+        "desc": "",
+        "freq": 1
+    },
+    "aneurism": {
+        "desc": "",
+        "freq": 1
+    },
+    "anarcho-syndicalism": {
+        "desc": "",
+        "freq": 2
+    },
+    "amphibianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "althusserianism": {
+        "desc": "",
+        "freq": 2
+    },
+    "alexandrianism": {
+        "desc": "",
+        "freq": 1
+    },
+    "aleatoricism": {
+        "desc": "",
+        "freq": 1
+    },
+    "alarmism": {
+        "desc": "",
+        "freq": 1
+    },
+    "agriculturalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "agrarian-nationalism": {
+        "desc": "",
+        "freq": 1
+    },
+    "agapemonism": {
+        "desc": "",
+        "freq": 1
+    },
+    "africanism": {
+        "desc": "",
+        "freq": 1
+    },
+    "aerodynamism": {
+        "desc": "",
+        "freq": 1
+    },
+    "aceticism": {
+        "desc": "",
+        "freq": 1
+    },
+    "accommodationism": {
+        "desc": "",
+        "freq": 1
+    },
+    "academism": {
+        "desc": "",
+        "freq": 1
+    },
+    "abstentionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "abortionism": {
+        "desc": "",
+        "freq": 1
+    },
+    "ableism": {
+        "desc": "",
+        "freq": 1
+    }
+}
